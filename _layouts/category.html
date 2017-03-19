@@ -1,0 +1,16 @@
+---
+layout: page
+classes: index
+code: |
+ article {background:#000}
+---
+
+<article>
+<h3 class="landmark">{{ page.title}}</h3>
+{% assign cat = page.category | downcase %}
+<ul class="posts grid">
+ {% for post in site.categories.[cat] %}
+  	{% include post-list.html %}
+ {% endfor %}
+</ul>
+</article>

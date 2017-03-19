@@ -1,0 +1,11 @@
+ <!-- Scrollify by Luke Haas : https://projects.lukehaas.me/scrollify/-->
+
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/scrollify/1.0.8/jquery.scrollify.min.js"></script>
+ <script type="text/javascript">
+$(function() {
+					$.scrollify({
+						section : "section, article header",
+						interstitialSection:".site",
+						{{ page.scrollify}}
+					});
+				});</script>
