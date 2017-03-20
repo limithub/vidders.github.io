@@ -33,13 +33,10 @@ canvas {width:800px}
 /* ===[ 480]==*/
 
 @media screen and (max-width: 480px) {
-
 ul.posts, li.cell, article.post aside, section.pitch { display:block;  width:100%;  margin:auto; padding:0;}
+ul.posts {padding-top:3em;}
 li.cell, .tall, .wide {width:100%; height: auto; min-height:50px;}
-
-li.cell h4 {background:#55974a; padding:5vw}
-li.cell:nth-child(odd) h4 {background:#4d394b;}
-li.cell:nth-child(3n+2) h4{background:rgb(210,115,150);}
+li.cell h4 {padding-left:0.25em;}
 
 header.site {background:#4d394b;}
 header.site a {color:#fff; }
@@ -47,12 +44,11 @@ header.site a {color:#fff; }
 .site h1 a:hover, .site nav ul, .site nav li a:hover{ position:relative; background:transparent; color:rgb(210,115,150)}
 .site nav .text {display:none;}
 
-.page nav {font-size:smaller; text-align:left;}
+.page nav {font-size:smaller; margin:3.5em auto auto -2.5em;}
 .person h4 {font-size:10vw;}
 .person img {float:left;}
 
 .post nav.posts a {display:block; float:none;}
-
 
 .copy {padding:1rem; }
 .columns {display:block;}
@@ -61,47 +57,91 @@ header.site a {color:#fff; }
 blockquote {width:100% !important; font-size:1rem; margin:auto;}
 
 
-#articles-vidding-mashup {background-image:none;} 
+#articles-vidding-mashup {background-image:none; background-color:#412d3c;} 
 
-#articles-vidding-lyrical {background-image:none;} 
+#articles-vidding-lyrical {background-image:none; background-color:#98cbb4;} 
 
-#articles-vidding-history {background-image:none;} 
+#articles-vidding-history {background-image:none; background-color:#FFCC1;} 
 
-#articles-vids-show {background-image:none;} 
+#articles-vids-show {background-image:none; background-color:#187b9b;} 
 
-#articles-vids-scream {background-image:none;} 
+#articles-vids-scream {background-image:none; background-color:#974a86;} 
 
-#articles-vids-romance {background-image:none;} 
+#articles-vids-romance {background-image:none; background-color:#4a6097;} 
 
-#articles-vids-prowl {background-image:none;} 
+#articles-vids-prowl {background-image:none; background-color:#d27396;} 
 
-#articles-vidding-profiles {background-image:none;} 
+#articles-vidding-profiles {background-image:none; background-color:#412d3c;} 
 
-#articles-vidding-playlists {background-image:none;} 
+#articles-vidding-playlists {background-image:none; background-color:#98cbb4;} 
 
-#articles-vids-mykonos {background-image:none;} 
+#articles-vids-mykonos {background-image:none; background-color:#FFCC1;} 
 
-#articles-vidding-limterview {background-image:none;} 
+#articles-vidding-limterview {background-image:none; background-color:#187b9b;} 
 
-#articles-vidding-legal {background-image:none;} 
+#articles-vidding-legal {background-image:none; background-color:#974a86;} 
 
-#articles-vidding-interview {background-image:none;} 
+#articles-vidding-interview {background-image:none; background-color:#4a6097;} 
 
-#articles-vids-glitter {background-image:none;} 
+#articles-vids-glitter {background-image:none; background-color:#d27396;} 
 
-#articles-vids-featured-vids {background-image:none;} 
+#articles-vids-featured-vids {background-image:none; background-color:#412d3c;} 
 
-#articles-vidding-external {background-image:none;} 
+#articles-vidding-external {background-image:none; background-color:#98cbb4;} 
 
-#articles-vidding-demystifying {background-image:none;} 
+#articles-vidding-demystifying {background-image:none; background-color:#FFCC1;} 
 
-#articles-vidding-classics {background-image:none;} 
+#articles-vidding-classics {background-image:none; background-color:#187b9b;} 
 
-#about-people {background-image:none;} 
+#about-people {background-image:none; background-color:#974a86;} 
 
-#about-contact {background-image:none;} 
+#about-contact {background-image:none; background-color:#4a6097;} 
 
-#about {background-image:none;} 
+#about {background-image:none; background-color:#d27396;} 
+
+
+#articles-vidding-mashup:hover {background-color:#FFCC1;} 
+
+#articles-vidding-lyrical:hover {background-color:#4a6097;} 
+
+#articles-vidding-history:hover {background-color:#98cbb4;} 
+
+#articles-vids-show:hover {background-color:#412d3c;} 
+
+#articles-vids-scream:hover {background-color:#d27396;} 
+
+#articles-vids-romance:hover {background-color:#974a86;} 
+
+#articles-vids-prowl:hover {background-color:#FFCC1;} 
+
+#articles-vidding-profiles:hover {background-color:#4a6097;} 
+
+#articles-vidding-playlists:hover {background-color:#98cbb4;} 
+
+#articles-vids-mykonos:hover {background-color:#412d3c;} 
+
+#articles-vidding-limterview:hover {background-color:#d27396;} 
+
+#articles-vidding-legal:hover {background-color:#974a86;} 
+
+#articles-vidding-interview:hover {background-color:#FFCC1;} 
+
+#articles-vids-glitter:hover {background-color:#4a6097;} 
+
+#articles-vids-featured-vids:hover {background-color:#98cbb4;} 
+
+#articles-vidding-external:hover {background-color:#412d3c;} 
+
+#articles-vidding-demystifying:hover {background-color:#d27396;} 
+
+#articles-vidding-classics:hover {background-color:#974a86;} 
+
+#about-people:hover {background-color:#FFCC1;} 
+
+#about-contact:hover {background-color:#4a6097;} 
+
+#about:hover {background-color:#98cbb4;} 
+
 
 
 canvas {width:320px}

@@ -35,13 +35,10 @@ canvas {width:800px}
 /* ===[ 480]==*/
 
 @media screen and (max-width: 480px) {
-
 ul.posts, li.cell, article.post aside, section.pitch { display:block;  width:100%;  margin:auto; padding:0;}
+ul.posts {padding-top:3em;}
 li.cell, .tall, .wide {width:100%; height: auto; min-height:50px;}
-
-li.cell h4 {background:#55974a; padding:5vw}
-li.cell:nth-child(odd) h4 {background:#4d394b;}
-li.cell:nth-child(3n+2) h4{background:rgb(210,115,150);}
+li.cell h4 {padding-left:0.25em;}
 
 header.site {background:#4d394b;}
 header.site a {color:#fff; }
@@ -49,12 +46,11 @@ header.site a {color:#fff; }
 .site h1 a:hover, .site nav ul, .site nav li a:hover{ position:relative; background:transparent; color:rgb(210,115,150)}
 .site nav .text {display:none;}
 
-.page nav {font-size:smaller; text-align:left;}
+.page nav {font-size:smaller; margin:3.5em auto auto -2.5em;}
 .person h4 {font-size:10vw;}
 .person img {float:left;}
 
 .post nav.posts a {display:block; float:none;}
-
 
 .copy {padding:1rem; }
 .columns {display:block;}
@@ -63,8 +59,12 @@ header.site a {color:#fff; }
 blockquote {width:100% !important; font-size:1rem; margin:auto;}
 
 {% for post in site.posts %}
-#{{post.id | slugify}} {background-image:none;} 
+#{{post.id | slugify}} {background-image:none; background-color:{% cycle '#412d3c', '#98cbb4', '#FFCC1','#187b9b', '#974a86', '#4a6097', '#d27396' %};} 
 {% endfor %}
+{% for post in site.posts %}
+#{{post.id | slugify}}:hover {background-color:{% cycle '#FFCC1','#4a6097', '#98cbb4','#412d3c', '#d27396', '#974a86' %};} 
+{% endfor %}
+
 
 canvas {width:320px}
 .banner {background-position:top left; padding-top:100px;}

@@ -39,7 +39,7 @@ h1,h2,h3,h4,h5, button,dt {font-family:Chivo,Helvetica, sans-serif; line-height:
  <link rel="stylesheet" href="/assets/css/icons.css">
  <link rel="stylesheet" href="/assets/css/response.css">
   <!--DANGER WILL ROBINSON-->
-  <style type="text/css"><!-- article {background:url(/assets/pics/posts/show/lights.jpg) top left no-repeat}
+  <style type="text/css"><!-- article header {height:100vh;background:url(/assets/pics/posts/show/lights.jpg) top left no-repeat}
 article header h2 {font-family:Limelight; color:#ffff8d; text-shadow:-3px -3px 10px lightyellow, 3px 3px 10px yellow, -1px -1px 3px orange, 0px 0px 30px red; padding-top:25vh;}
 #tiffany {background-image:url(/assets/pics/posts/show/kurt-1.jpg)}
 #fig2 {background-image:url(/assets/pics/posts/show/kurtlikes.jpg)}
@@ -50,14 +50,14 @@ article header h2 {font-family:Limelight; color:#ffff8d; text-shadow:-3px -3px 1
  #tiffany em {color:rgba(255,255,255,0.75); font:6vw "Limelight", monospace; text-shadow:-3px -3px 10px lightyellow, 3px 3px 10px yellow, -1px -1px 3px orange, 0px 0px 30px red}
 
 @media screen and (max-width: 980px) {
-article {background:url(/assets/pics/posts/show/980/lights.jpg) top left no-repeat }
+article header {background:url(/assets/pics/posts/show/980/lights.jpg) top left no-repeat }
 #open {padding-top:0; }
 #tiffany {background-image:url(/assets/pics/posts/show/980/kurt-1.jpg); background-size:auto;background-color:white;background-position:top left; background-repeat:no-repeat;}
 #fig2 {background-image:url(/assets/pics/posts/show/980/kurtlikes.jpg)}
 #blaine {background-image:url(/assets/pics/posts/show/980/blaine-banner.jpg);}
 }
-@media screen and (max-width: 480px) {
-article {background:url(/assets/pics/posts/show/640/lights.jpg) top left no-repeat; }
+@media screen and (max-width: 640px) {
+article header {background:url(/assets/pics/posts/show/640/lights.jpg) top left no-repeat; }
 #tiffany {background-image:url(/assets/pics/posts/show/640/kurt-1.jpg);}
 #fig2 {background-image:url(/assets/pics/posts/show/640/kurtlikes.jpg)}
 #blaine {background-image:url(/assets/pics/posts/show/640/blaine-banner.jpg);}
@@ -288,7 +288,7 @@ TODO: Packery (grid) has to come before Slabtext (typeset) but want a dryer meth
     function slabTextHeadlines() {
         $(".typeset").slabText({
             // Don't slabtext the headers if the viewport is under 380px
-            "viewportBreakpoint":380
+            "viewportBreakpoint":480
         });
     };
 

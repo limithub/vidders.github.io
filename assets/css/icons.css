@@ -35,7 +35,7 @@ a[title="top"]:before { content: "\f01b";} /*arrow up */
 a[title="contributors"]:before { content: "\f007";} /*user*/
 a[title="editor"]:before {content: "\f2dc";} /*snowflake */
 a[title="mep"]:before {content: "\f008";} /* film*/
-a[title="contact"]:before {content: "\f1d8";} /*paper plane */
+a[title="contact"]:before, h3[title="email"]:before {content: "\f1d8";} /*paper plane */
 
 /* SOCIALS icons */
 a[title="facebook"]:before {content: "\f09a"; background:#3B5998;}

@@ -79,6 +79,8 @@ li.tall {height:300px}
 ul.posts li:hover {background-position:top left !important;}
 ul.posts blockquote {margin:auto 0; display:none;}
 .cell h4 {text-transform:uppercase; color:#fff; font-weight:100;font-family:Oswald;}
+/* note: had to put this in for old ipads*/
+.cell h4 a, .cell h4 a:visited, .cell h4 a:link {border:0; color:#fff;}
 
 
 #articles-vidding-mashup {background-color:#000;
