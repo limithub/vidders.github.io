@@ -1,5 +1,5 @@
 # Zine
-Hello! Welcome to Zine, a Jekyll theme. https://jekyllrb.com/docs/home/
+Hello!!! Welcome to Zine, a Jekyll theme. https://jekyllrb.com/docs/home/
 
 Zine is written with an eye toward simple longform layout and art direction to play with fun features in new browsers. It is not at all safe from XSS as you can write code directly into any post, so don't add on any kind of signup function. It's for a closed group of known authors. It's not strict really. If you want to just write plain html you can, markdown, you can, use a GUI, you can. It's made to be usable by non-coder artists, writers, and designers, but not to be annoying for coders. 
 
