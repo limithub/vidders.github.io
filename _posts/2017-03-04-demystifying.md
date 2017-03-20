@@ -3,7 +3,7 @@ layout: post
 title:  "Demystifying Vidding"
 authors: [lim]
 pitch: |
-  Flow is a core challenge of vidding (that is at all concerned with musicality) because you’re integrating scenes from across possibly years of a tv show or even multiple, completely different shows, into one percept or gestalt. 
+  integrating scenes into one percept 
 heading: |
  <span class="slabtext">Demystifying</span> <span class="slabtext">Vidding</span>
 hero: demyst.gif

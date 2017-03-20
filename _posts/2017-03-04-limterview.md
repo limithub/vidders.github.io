@@ -1,6 +1,8 @@
 ---
 layout: post
 title:  "extended remarks"
+pitch: |
+ Extended remarks from the recreate coalition interview
 authors: [lim, gwyn]
 hero: extended.jpg
 tools: []
