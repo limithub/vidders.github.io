@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Mashup</title>
   <meta name="robots" content="noindex,nofollow"/>
-  <meta name="description" content="pitch">
+  <meta name="description" content="Mashup, or my vid in a museum, by Bironic">
   <meta name="keywords" 
    content="">
 <!-- STYLESHEETS FROM HERE TO ETERNITY-->
@@ -60,8 +60,8 @@ h1,h2,h3,.splash h3, #omg blockquote {font-family:"Helvetica Neue",Helvetica, Ar
  .slideshow figure {position:relative}
  .slideshow figure.video figcaption {position:absolute; top:2.5em; text-align:center; background-color:rgba(255,255,255,0.5); z-index:100; padding:0.5em}
  .slideshow figure.video figcaption {bottom:0; top:auto}
- .exhibit p.next span:after,.slideshow.dark p.next span:after {background:url(/assets/pics/posts/mashup/small-hand-i.jpg) top left no-repeat; display:block; height:170px}
- .exhibit {background:#000; color:#ddd; position:relative}
+ .exhibit p.next span:after,.slideshow.dark p.next span:after {background:url(/assets/pics/posts/mashup/320/small-hand-i.jpg) top left no-repeat; background-size:contain; display:block; height:170px}
+ .exhibit {background:#000; color:#ddd; position:relative; padding-bottom:100px}
  .exhibit blockquote {font-family:Helvetica,Arial,Lato,sans-serif;}
  .exhibit h3{color:rgba(255,255,255,0.9)}
  
@@ -141,7 +141,7 @@ h1,h2,h3,.splash h3, #omg blockquote {font-family:"Helvetica Neue",Helvetica, Ar
   <header>
     <h2 class="title" itemprop="name headline"><span>Mashup</span></h2>
     
-    <!--section class="pitch"><p>pitch</p>
+    <!--section class="pitch"><p>Mashup, or my vid in a museum, by Bironic</p>
 </section-->
   </header>
 
@@ -401,9 +401,9 @@ Jan. 16, 2017</p>
     </section>
 
 <section class="copy" id="real">
-  <p>Months after signing the contracts, sort of waiting for the other shoe to drop—because how could something this cool really happen, or happen without complications—it finally felt real. Somehow I had created something that someone thought worth including in this exhibit. Somehow Francesa considered “Starships!” on a level with works by Kandy Fong and obsessive24 and here’s luck and Lim and Shadow Songs, at least in a collection themed around the progression of mashups. WTF, right? </p>
+  <p>Months after signing the contracts, sort of waiting for the other shoe to drop—because how could something this cool really happen, or happen without complications—it finally felt real. Somehow I had created something that someone thought worth including in this exhibit. Somehow Francesca considered “Starships!” on a level with works by Kandy Fong and obsessive24 and here’s luck and Lim and Shadow Songs, at least in a collection themed around the progression of mashups. WTF, right? </p>
 
-  <p>(I wasn’t the <a href="heresluck.dreamwidth.org/1056687.html">only one excited</a>, either, which helped me feel less silly!)</p>
+  <p>(I wasn’t the <a href="https://heresluck.dreamwidth.org/1056687.html">only one excited</a>, either, which helped me feel less silly!)</p>
 
   <p>And then, even more good news: Even though the gallery itself was not able to provide travel funds to participants, between the artist’s fee and an unexpected holiday gift from my mom I was suddenly in a position to fly to Vancouver and see the exhibit in person.</p>
 
@@ -526,7 +526,7 @@ Jan. 28, 2017</p>
 <div class="copy">
     <p>The vidding subcollection was situated in a darkened corner on the third floor of the exhibit, past Warhol’s Marilyns and clips from Jean-Luc Godard films, and adjacent to a Jamaican dub sound studio, which I thought was perfect, thematically. Related sections on hip hop and on the Black and Latino LGBT community drag balls in NYC depicted in magazines and the movie Paris Is Burning were on the next floor down.</p>
 
-    <p class="image"><img src="/assets/pics/posts/mashup/floorplan.jpg" data-src="/assets/pics/posts/mashup/320/floorplan.jpg" data-srcset="/assets/pics/posts/mashup/480/floorplan.jpg 480w, /assets/pics/posts/mashup/640/floorplan.jpg 640w, /assets/pics/posts/mashup/floorplan.jpg 920w" data-sizes="auto" class="lazyload" /></p>
+    <p class="image"><img src="/assets/pics/posts/mashup/floorplan.jpg" class="lazyload" /></p>
 
     <p>The layout of the vidding section was unfortunate in that four of the seven vid monitors were in a narrow hallway, so people had to either stand close to the screen if they wanted to put on the single pair of headphones mounted beneath each so others could pass through behind them, or else stand against the opposite wall and watch without sound. I saw visitors doing both.</p>
 
@@ -788,7 +788,7 @@ TODO: Packery (grid) has to come before Slabtext (typeset) but want a dryer meth
     // Function to slabtext the headings
     function slabTextHeadlines() {
         $(".typeset").slabText({
-            // Don't slabtext the headers if the viewport is under 380px
+            // Don't slabtext the headers if the viewport is under 480px
             "viewportBreakpoint":480
         });
     };
@@ -824,7 +824,7 @@ TODO: Packery (grid) has to come before Slabtext (typeset) but want a dryer meth
 
 		 <!-- Scrollify by Luke Haas : https://projects.lukehaas.me/scrollify/-->
 
- <script src="https://cdnjs.cloudflare.com/ajax/libs/scrollify/1.0.8/jquery.scrollify.min.js"></script>
+ <script src="https://cdnjs.cloudflare.com/ajax/libs/scrollify/1.0.14/jquery.scrollify.min.js"></script>
  <script type="text/javascript">
 $(function() {
 					$.scrollify({

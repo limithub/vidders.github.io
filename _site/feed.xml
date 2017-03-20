@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Mar 2017 13:27:36 +0000</pubDate>
-    <lastBuildDate>Mon, 20 Mar 2017 13:27:36 +0000</lastBuildDate>
+    <pubDate>Mon, 20 Mar 2017 16:04:54 +0000</pubDate>
+    <lastBuildDate>Mon, 20 Mar 2017 16:04:54 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -267,9 +267,9 @@ Jan. 16, 2017&lt;/p&gt;
     &lt;/section&gt;
 
 &lt;section class=&quot;copy&quot; id=&quot;real&quot;&gt;
-  &lt;p&gt;Months after signing the contracts, sort of waiting for the other shoe to drop—because how could something this cool really happen, or happen without complications—it finally felt real. Somehow I had created something that someone thought worth including in this exhibit. Somehow Francesa considered “Starships!” on a level with works by Kandy Fong and obsessive24 and here’s luck and Lim and Shadow Songs, at least in a collection themed around the progression of mashups. WTF, right? &lt;/p&gt;
+  &lt;p&gt;Months after signing the contracts, sort of waiting for the other shoe to drop—because how could something this cool really happen, or happen without complications—it finally felt real. Somehow I had created something that someone thought worth including in this exhibit. Somehow Francesca considered “Starships!” on a level with works by Kandy Fong and obsessive24 and here’s luck and Lim and Shadow Songs, at least in a collection themed around the progression of mashups. WTF, right? &lt;/p&gt;
 
-  &lt;p&gt;(I wasn’t the &lt;a href=&quot;heresluck.dreamwidth.org/1056687.html&quot;&gt;only one excited&lt;/a&gt;, either, which helped me feel less silly!)&lt;/p&gt;
+  &lt;p&gt;(I wasn’t the &lt;a href=&quot;https://heresluck.dreamwidth.org/1056687.html&quot;&gt;only one excited&lt;/a&gt;, either, which helped me feel less silly!)&lt;/p&gt;
 
   &lt;p&gt;And then, even more good news: Even though the gallery itself was not able to provide travel funds to participants, between the artist’s fee and an unexpected holiday gift from my mom I was suddenly in a position to fly to Vancouver and see the exhibit in person.&lt;/p&gt;
 
@@ -392,7 +392,7 @@ Jan. 28, 2017&lt;/p&gt;
 &lt;div class=&quot;copy&quot;&gt;
     &lt;p&gt;The vidding subcollection was situated in a darkened corner on the third floor of the exhibit, past Warhol’s Marilyns and clips from Jean-Luc Godard films, and adjacent to a Jamaican dub sound studio, which I thought was perfect, thematically. Related sections on hip hop and on the Black and Latino LGBT community drag balls in NYC depicted in magazines and the movie Paris Is Burning were on the next floor down.&lt;/p&gt;
 
-    &lt;p class=&quot;image&quot;&gt;&lt;img src=&quot;/assets/pics/posts/mashup/floorplan.jpg&quot; data-src=&quot;/assets/pics/posts/mashup/320/floorplan.jpg&quot; data-srcset=&quot;/assets/pics/posts/mashup/480/floorplan.jpg 480w, /assets/pics/posts/mashup/640/floorplan.jpg 640w, /assets/pics/posts/mashup/floorplan.jpg 920w&quot; data-sizes=&quot;auto&quot; class=&quot;lazyload&quot; /&gt;&lt;/p&gt;
+    &lt;p class=&quot;image&quot;&gt;&lt;img src=&quot;/assets/pics/posts/mashup/floorplan.jpg&quot; class=&quot;lazyload&quot; /&gt;&lt;/p&gt;
 
     &lt;p&gt;The layout of the vidding section was unfortunate in that four of the seven vid monitors were in a narrow hallway, so people had to either stand close to the screen if they wanted to put on the single pair of headphones mounted beneath each so others could pass through behind them, or else stand against the opposite wall and watch without sound. I saw visitors doing both.&lt;/p&gt;
 
@@ -631,13 +631,9 @@ Jan. 29, 2017&lt;/p&gt;
 				&lt;p class=&quot;image&quot;&gt;&lt;img src=&quot;/assets/pics/posts/lyrical/picasso-bull.jpg&quot; /&gt;&lt;/p&gt;
 				&lt;/div&gt;
 			&lt;/li&gt;
-			&lt;li title=&quot;a to b&quot;&gt;
-				&lt;div class=&quot;video&quot;&gt;
-					&lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/FXy-2pAgiMA?list=PLliE8mqiSLjzN_7m704hM5y8GHSCRDVoh&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-				&lt;/div&gt;
-			&lt;/li&gt;
+&lt;!-- a to b--&gt;
 			&lt;li&gt;
-			&lt;div class=&quot;mid copy&quot;&gt;
+			&lt;div class=&quot;mid copy&quot; id=&quot;a2b&quot;&gt;
 			&lt;h3&gt;A to B&lt;/h3&gt;
 				&lt;p&gt;Literal interpretation. What the lyrics are is what you get.&lt;/p&gt;
 				&lt;dl class=&quot;examples&quot;&gt;
@@ -658,11 +654,12 @@ Jan. 29, 2017&lt;/p&gt;
 				&lt;/dl&gt;
 				&lt;/div&gt;
 			&lt;/li&gt;
-			&lt;li title=&quot;a to b before a&quot;&gt;
+			&lt;li title=&quot;a to b&quot;&gt;
 				&lt;div class=&quot;video&quot;&gt;
-					&lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/tYkzmGYw7vs?list=PLliE8mqiSLjzN_7m704hM5y8GHSCRDVoh&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+					&lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/FXy-2pAgiMA?list=PLliE8mqiSLjzN_7m704hM5y8GHSCRDVoh&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 				&lt;/div&gt;
 			&lt;/li&gt;
+&lt;!-- a to b before a--&gt;
 			&lt;li&gt;
 				&lt;div class=&quot;copy&quot;&gt;
 				&lt;h3 id=&quot;a2bba&quot;&gt;A to B before A&lt;/h3&gt;
@@ -681,11 +678,12 @@ Jan. 29, 2017&lt;/p&gt;
 				&lt;/dl&gt;
 				&lt;/div&gt;
 			&lt;/li&gt;
-			&lt;li title=&quot;a to literal b&quot;&gt;
+			&lt;li title=&quot;a to b before a&quot;&gt;
 				&lt;div class=&quot;video&quot;&gt;
-					&lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/d2zAjOYqGnQ?list=PLliE8mqiSLjzN_7m704hM5y8GHSCRDVoh&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+					&lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/tYkzmGYw7vs?list=PLliE8mqiSLjzN_7m704hM5y8GHSCRDVoh&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 				&lt;/div&gt;
 			&lt;/li&gt;
+&lt;!--a to literal b--&gt;			
 			&lt;li&gt;
 			&lt;p class=&quot;image&quot;&gt;&lt;img src=&quot;/assets/pics/posts/lyrical/food-thought.jpg&quot; /&gt;&lt;/p&gt;
 			&lt;/li&gt;
@@ -696,7 +694,7 @@ Jan. 29, 2017&lt;/p&gt;
 				&lt;/p&gt;
 				&lt;dl class=&quot;examples&quot;&gt;
 					&lt;dt&gt;jescaflowne&lt;/dt&gt;
-					&lt;dd&gt;&lt;a href=&quot;http://www.elefantpaw.com/vids-2&quot;&gt;Jar Oh! Hearts&lt;/a&gt;
+					&lt;dd&gt;&lt;a href=&quot;http://www.elefantpaw.com/vids-2&quot;&gt;Jar Oh! Hearts&lt;/a&gt; (deadlink)
 					&lt;/dd&gt;
 					&lt;dt&gt;
 						&lt;a href=&quot;http://elipie.livejournal.com/&quot;&gt;elipie&lt;/a&gt;
@@ -724,17 +722,18 @@ Jan. 29, 2017&lt;/p&gt;
 				&lt;/dl&gt;
 				&lt;/div&gt;
 			&lt;/li&gt;
-			&lt;li&gt; 
+			&lt;li title=&quot;a to literal b&quot;&gt;
+				&lt;div class=&quot;video&quot;&gt;
+					&lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/d2zAjOYqGnQ?list=PLliE8mqiSLjzN_7m704hM5y8GHSCRDVoh&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+				&lt;/div&gt;
+			&lt;/li&gt;
+			&lt;li title=&quot;grable the walking dead&quot;&gt; 
 			&lt;div class=&quot;video&quot;&gt;
 			&lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/pZ9ASjxGj6A?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 			&lt;/div&gt;
 			&lt;/li&gt;
-			&lt;li title=&quot;a to c&quot;&gt;
-				&lt;div class=&quot;video&quot;&gt;
-					&lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7_Anoh-cHAk?list=PLliE8mqiSLjzN_7m704hM5y8GHSCRDVoh&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-				&lt;/div&gt;
-			&lt;/li&gt;
-			&lt;li&gt;
+&lt;!-- a to c--&gt;
+     &lt;li&gt;
 				&lt;div class=&quot;copy&quot;&gt;
 				&lt;h3 id=&quot;a2c&quot;&gt;A to C&lt;/h3&gt;
 				&lt;p class=&quot;text&quot;&gt;Going to the next logical place after the literal one.&lt;/p&gt;
@@ -759,7 +758,7 @@ Jan. 29, 2017&lt;/p&gt;
 					&lt;/dt&gt;
 					&lt;dd&gt;&lt;a href=&quot;http://sdwolfpup.livejournal.com/187754.html&quot;&gt;Woman King&lt;/a&gt; - Alma is the woman king, Bullock is the sword, and Alma's father is the evil.
 					&lt;dt&gt;nc's &lt;/dt&gt;
-					&lt;dd&gt;&lt;a href=&quot;http://pb.talkoncorners.net/taxonomy/term/3&quot;&gt;Beautiful Struggle&lt;/a&gt; - It starts with Harry being pushed and his name in the goblet against his will, then shows a comparison of Cedrick embracing wizard celebrity to Harry not accepting it.
+					&lt;dd&gt;&lt;a href=&quot;http://pb.talkoncorners.net/taxonomy/term/3&quot;&gt;Beautiful Struggle&lt;/a&gt; - It starts with Harry being pushed and his name in the goblet against his will, then shows a comparison of Cedrick embracing wizard celebrity to Harry not accepting it. (deadlink)
 					&lt;/dd&gt;
 					&lt;dt&gt;&lt;a href=&quot;http://giandujakiss.livejournal.com/&quot;&gt;giandujakiss&lt;/a&gt;
 					&lt;/dt&gt;
@@ -784,18 +783,18 @@ Jan. 29, 2017&lt;/p&gt;
 				&lt;/dl&gt;
 				&lt;/div&gt;
 			&lt;/li&gt;
-			&lt;li title=&quot;a as evolution&quot;&gt;
+			&lt;li title=&quot;a to c&quot;&gt;
 				&lt;div class=&quot;video&quot;&gt;
-					&lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3FVnAXZFj94?list=PLliE8mqiSLjzN_7m704hM5y8GHSCRDVoh&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+					&lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/7_Anoh-cHAk?list=PLliE8mqiSLjzN_7m704hM5y8GHSCRDVoh&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 				&lt;/div&gt;
 			&lt;/li&gt;
-			&lt;li&gt;
+&lt;!-- a as evolution --&gt;	
+            &lt;li&gt;
 			&lt;div class=&quot;copy&quot;&gt;
 				&lt;h3 id=&quot;aae&quot;&gt;A as Evolution&lt;/h3&gt;
 					&lt;p&gt;Same lyric taking on different interpretations as the vid progresses. jarrow refers to these as the &quot;vids that betray your trust.&quot; They start out with one lyrical interpretation that evolves down a different path than the tone of the beginning suggested.
 					&lt;/p&gt;
-					&lt;p&gt;&lt;a href=&quot;http://jarrow.livejournal.com/&quot;&gt;jarrow&lt;/a&gt; refers to these as the &quot;vids that betray your trust.&quot; They start out with one lyrical interpretation that evolves down a different path than the tone of the beginning suggested.
-					&lt;/p&gt;
+					
 				&lt;dl class=&quot;examples&quot;&gt;
 					&lt;dt&gt;&lt;a href=&quot;http://sweetestdrain.livejournal.com/&quot;&gt;sweetestdrain&lt;/a&gt;
 					&lt;/dt&gt;
@@ -818,15 +817,16 @@ Jan. 29, 2017&lt;/p&gt;
 					&lt;/dd&gt;
 				&lt;/dl&gt;
 				&lt;/div&gt;
-			&lt;/li&gt;
-			&lt;li title=&quot;a as inside&quot;&gt;
+			&lt;/li&gt;		
+			&lt;li title=&quot;a as evolution&quot;&gt;
 				&lt;div class=&quot;video&quot;&gt;
-					&lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/IApgKIJCAvs?list=PLliE8mqiSLjzN_7m704hM5y8GHSCRDVoh&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+					&lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/3FVnAXZFj94?list=PLliE8mqiSLjzN_7m704hM5y8GHSCRDVoh&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 				&lt;/div&gt;
 			&lt;/li&gt;
+&lt;!-- as as inside --&gt;			
 			&lt;li&gt;
 				&lt;div class=&quot;copy&quot;&gt;
-				&lt;h3&gt;A as Inside&lt;/h3&gt;
+				&lt;h3 id=&quot;aai&quot;&gt;A as Inside&lt;/h3&gt;
 				&lt;p&gt;When context is needed from the source that a casual viewer would not glean from the source or that is forgotten or that requires the same reading of the source as the vidder. It can be done well, but there is always the case of going too far. Mostly it is being too in your own head for others to go with you and sometimes explaining it does not make them want to go down the rabbit hole with you.
 				&lt;/p&gt;
 				&lt;dl class=&quot;examples&quot;&gt;
@@ -869,20 +869,21 @@ Jan. 29, 2017&lt;/p&gt;
 				&lt;/dl&gt;
 				&lt;/div&gt;
 			&lt;/li&gt;
+			&lt;li title=&quot;a as inside&quot;&gt;
+				&lt;div class=&quot;video&quot;&gt;
+					&lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/IApgKIJCAvs?list=PLliE8mqiSLjzN_7m704hM5y8GHSCRDVoh&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+				&lt;/div&gt;
+			&lt;/li&gt;
 			&lt;!-- run boy run--&gt;
 			&lt;li&gt;
 			&lt;div class=&quot;video&quot;&gt;
 			&lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/eZNcMp1RRwM?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 			&lt;/div&gt;
 			&lt;/li&gt;
-			&lt;li title=&quot;a as apples to oranges&quot;&gt;
-				&lt;div class=&quot;video&quot;&gt;
-					&lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/MWT7aP5NEmg?list=PLliE8mqiSLjzN_7m704hM5y8GHSCRDVoh&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
-				&lt;/div&gt;
-			&lt;/li&gt;
+&lt;!-- a as apples--&gt;
 			&lt;li&gt;
 				&lt;div class=&quot;copy&quot;&gt;
-				&lt;h3&gt;A as Apples to Oranges&lt;/h3&gt;
+				&lt;h3 id=&quot;a2o&quot;&gt;A as Apples to Oranges&lt;/h3&gt;
 				&lt;p&gt;Something that supports your concept (the thesis), but not directly tied to the lyrics.
 				&lt;/p&gt;
 				&lt;dl class=&quot;examples&quot;&gt;
@@ -897,14 +898,15 @@ Jan. 29, 2017&lt;/p&gt;
 				&lt;/dl&gt;
 				&lt;/div&gt;
 			&lt;/li&gt;
-			&lt;li title=&quot;a to z&quot;&gt;
+			&lt;li title=&quot;a as apples to oranges&quot;&gt;
 				&lt;div class=&quot;video&quot;&gt;
-					&lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/A4TAiNqMkMs?list=PLliE8mqiSLjzN_7m704hM5y8GHSCRDVoh&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+					&lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/MWT7aP5NEmg?list=PLliE8mqiSLjzN_7m704hM5y8GHSCRDVoh&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 				&lt;/div&gt;
 			&lt;/li&gt;
+&lt;!-- a to z --&gt;			
 			&lt;li&gt;
 				&lt;div class=&quot;copy&quot;&gt;
-				&lt;h3&gt;A to Z&lt;/h3&gt;
+				&lt;h3 id=&quot;a2z&quot;&gt;A to Z&lt;/h3&gt;
 				&lt;p&gt;Matching lyrics, not concept.&lt;/p&gt;
 				&lt;p&gt;&lt;a href=&quot;http://kiki-miserychic.livejournal.com/&quot;&gt;kiki_miserychic&lt;/a&gt; My Dear Acquaintance (never released publicly) - This didn't match the concept of the overall vid, but it went with the lyrics and I thought it was cute.
 				&lt;/p&gt;
@@ -915,9 +917,16 @@ Jan. 29, 2017&lt;/p&gt;
 					&lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/CNoOI27YFlg?list=PLliE8mqiSLjzN_7m704hM5y8GHSCRDVoh&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 				&lt;/div&gt;
 			&lt;/li&gt;
+
+			&lt;li title=&quot;a to z&quot;&gt;
+				&lt;div class=&quot;video&quot;&gt;
+					&lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/A4TAiNqMkMs?list=PLliE8mqiSLjzN_7m704hM5y8GHSCRDVoh&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+				&lt;/div&gt;
+			&lt;/li&gt;
+&lt;!--A as Multiple Levels--&gt;
 			&lt;li&gt;
 				&lt;div class=&quot;copy&quot;&gt;
-				&lt;h3&gt;A as Multiple Levels&lt;/h3&gt;
+				&lt;h3 id=&quot;aml&quot;&gt;A as Multiple Levels&lt;/h3&gt;
 				&lt;p&gt;Lyrical interpretation holding more than one meaning shown in the visual source. Can be emotion as well as humorous, like all the categories.
 				&lt;/p&gt;
 				&lt;dl class=&quot;examples&quot;&gt;
@@ -940,11 +949,12 @@ Jan. 29, 2017&lt;/p&gt;
 				&lt;/dl&gt;
 				&lt;/div&gt;
 			&lt;/li&gt;
-			&lt;li title=&quot;a to opposite&quot;&gt;
+			&lt;li title=&quot;a as multiple levels&quot;&gt;
 				&lt;div class=&quot;video&quot;&gt;
-					&lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jzVU1h9lrY0?list=PLliE8mqiSLjzN_7m704hM5y8GHSCRDVoh&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+					&lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/CNoOI27YFlg?list=PLliE8mqiSLjzN_7m704hM5y8GHSCRDVoh&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 				&lt;/div&gt;
 			&lt;/li&gt;
+&lt;!-- a to opposite --&gt;			
 			&lt;li&gt;
 				&lt;div class=&quot;copy&quot;&gt;
 				&lt;h3 id=&quot;aoa&quot;&gt;A to Opposite A&lt;/h3&gt;
@@ -975,11 +985,13 @@ Jan. 29, 2017&lt;/p&gt;
 				&lt;/dl&gt;
 				
 			&lt;/li&gt;
-			&lt;li title=&quot;application&quot;&gt;
+			&lt;li title=&quot;a to opposite&quot;&gt;
 				&lt;div class=&quot;video&quot;&gt;
-					&lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4770iBFUNvA?list=PLliE8mqiSLjzN_7m704hM5y8GHSCRDVoh&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+					&lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/jzVU1h9lrY0?list=PLliE8mqiSLjzN_7m704hM5y8GHSCRDVoh&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
 				&lt;/div&gt;
 			&lt;/li&gt;
+
+&lt;!-- practical --&gt;
 			&lt;li&gt;
 				&lt;div class=&quot;copy&quot;&gt;
 				&lt;h3 id=&quot;practical&quot;&gt;Practical Application:&lt;/h3&gt;
@@ -1008,6 +1020,11 @@ Jan. 29, 2017&lt;/p&gt;
 				&lt;/dl&gt;
 				&lt;/div&gt;
 				&lt;/li&gt;
+				&lt;li title=&quot;application&quot;&gt;
+				&lt;div class=&quot;video&quot;&gt;
+					&lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/4770iBFUNvA?list=PLliE8mqiSLjzN_7m704hM5y8GHSCRDVoh&quot; frameborder=&quot;0&quot; allowfullscreen&gt;&lt;/iframe&gt;
+				&lt;/div&gt;
+			&lt;/li&gt;
 				&lt;li&gt;
 				&lt;div class=&quot;copy&quot;&gt;
 					&lt;p&gt;In music everyone plays the same note. It's the same way everyone has the same lyrics of a song for vidding. For music it is all in how you play the note. For vidding it is how you interpret the lyrics. Eric Clapton playing an E is different from Santana playing an E is different from Karen O playing an E. It is how you tune your instrument to interpret the lyrics to make your sound.
