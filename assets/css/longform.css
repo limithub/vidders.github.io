@@ -58,7 +58,7 @@ border-style: solid; border-width: 18px 18px 0; border-color: #7F7F7F transparen
 /*[ video ]*/
 .video { display: block; position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden; clear:both}
 .video iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%;}
-section.video iframe {position:relative;}
+section.video iframe {position:absolute;}
 figure iframe {min-height:460px;}
 
 /*[ audio ]*/
@@ -141,7 +141,7 @@ figure.slider img {width:auto;}
 .clear {clear:both;}
 .full {width:100vw;}
 .viewport {height:100vh; width:100vw; position:relative;}
-.columns {display:flex; flex-wrap: wrap;}
+.columns {display:flex;}
 .column { padding:0 1.5rem; min-width: 300px}
 .column figure {min-width:300px;}
 .bigger {font-size:larger;}
