@@ -70,11 +70,6 @@ canvas {width:320px}
 .banner {background-position:top left; padding-top:100px;}
 
 }
-/* ===[ large screens ]==*/
-@media screen and (min-width: 1280px) {
-li.wide {width:400px;}
-li.tall {height:600px}
-}
 
 
 

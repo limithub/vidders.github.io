@@ -460,7 +460,7 @@ a spoof video. (p8)</cite> But if you’re using a ContentIdentified song that t
       </div>
 </div>
 <div class="column">
-      <p>PS: In the very last dispute box you only get 250 characters so link OUT to this cv (because it’s a shorter word than resume or portfolio, see?) and make your case there. If you don’t have a website you could put it up on a permanent page on your tumblr, or send it to me and I will host it for you on limvids. I will also write you a testimonial you can put on there if you need one.</p>
+      <p>PS: In the very last dispute box you only get 250 characters so link OUT to this cv (because it’s a shorter word than resume or portfolio, see?) and make your case there. If you don’t have a website you could put it up on a permanent page on your tumblr, or <a href="/about/contact">send it to me</a> and I will host it for you on limvids. I will also write you a testimonial you can put on there if you need one.</p>
     </div>
 </div>
 
@@ -556,49 +556,6 @@ fonts: [Oswald,'Amatic SC', Muli]
 <!--possible tools: grid, scrollify, slider, slideshow, splitshow, timeline, typeset, youtube. 
 Scrollify has to come last so we sort it here
 TODO: Packery (grid) has to come before Slabtext (typeset) but want a dryer method (not alphasort - too mysterious)-->
-
-
-	
-
-	
-		<script src="https://www.youtube.com/iframe_api"></script>
-<script src="https://cdn.rawgit.com/labnol/files/master/yt.js"></script>
-
-<!--Youtube Light Loader-->
-    <script>
-     
-        /* Light YouTube Embeds by @labnol */
-        /* Web: http://labnol.org/?p=27941 */
-     
-        document.addEventListener("DOMContentLoaded",
-            function() {
-                var div, n,
-                    v = document.getElementsById("youtube-player");
-                for (n = 0; n < v.length; n++) {
-                    div = document.createElement("div");
-                    div.setAttribute("data-id", v[n].dataset.id);
-                    div.innerHTML = labnolThumb(v[n].dataset.id);
-                    div.onclick = labnolIframe;
-                    v[n].appendChild(div);
-                }
-            });
-     
-        function labnolThumb(id) {
-            var thumb = '<img src="https://i.ytimg.com/vi/ID/hqdefault.jpg">',
-                play = '<div class="play"></div>';
-            return thumb.replace("ID", id) + play;
-        }
-     
-        function labnolIframe() {
-            var iframe = document.createElement("iframe");
-            var embed = "https://www.youtube.com/embed/ID?autoplay=1";
-            iframe.setAttribute("src", embed.replace("ID", this.dataset.id));
-            iframe.setAttribute("frameborder", "0");
-            iframe.setAttribute("allowfullscreen", "1");
-            this.parentNode.replaceChild(iframe, this);
-        }
-     
-    </script>
 
 
 	
