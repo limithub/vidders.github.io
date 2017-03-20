@@ -144,7 +144,7 @@ figure.slider img {width:auto;}
 .columns {display:flex;}
 .column { padding:0 1.5rem}
 .bigger {font-size:larger;}
-.typeset {font-family:Oswald, sans-serif; font-weight:900; text-transform: uppercase; line-height: 1}
+.typeset {font-family:'league_gothicCnRg',Oswald, sans-serif; font-weight:900; text-transform: uppercase; line-height: 1}
 
 /* solo fullscreen */
 .solo {background:black;}
