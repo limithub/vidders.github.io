@@ -61,6 +61,8 @@ header.site a {color:#fff; }
 blockquote {width:100% !important; font-size:1rem; margin:auto;}
 
 
+#2017-03-04-interview {background-image:none;} 
+
 #articles-vidding-mashup {background-image:none;} 
 
 #articles-vidding-lyrical {background-image:none;} 
@@ -85,8 +87,6 @@ blockquote {width:100% !important; font-size:1rem; margin:auto;}
 
 #articles-vidding-legal {background-image:none;} 
 
-#articles-vidding-interview {background-image:none;} 
-
 #articles-vids-glitter {background-image:none;} 
 
 #articles-vids-featured-vids {background-image:none;} 
@@ -107,6 +107,11 @@ blockquote {width:100% !important; font-size:1rem; margin:auto;}
 canvas {width:320px}
 .banner {background-position:top left; padding-top:100px;}
 
+}
+/* ===[ large screens ]==*/
+@media screen and (min-width: 1280px) {
+li.wide {width:400px;}
+li.tall {height:600px}
 }
 
 

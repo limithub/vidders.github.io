@@ -81,6 +81,12 @@ ul.posts blockquote {margin:auto 0; display:none;}
 .cell h4 {text-transform:uppercase; color:#fff; font-weight:100;font-family:Oswald;}
 
 
+#2017-03-04-interview {background-color:#000;
+background-image: url("");
+background-size:300px auto; background-position: bottom right; background-repeat:no-repeat;
+
+ text-shadow:1px 1px 0px rgba(0,0,0,0.5); }
+
 #articles-vidding-mashup {background-color:#000;
 background-image: url("/assets/pics/heroes/480/mashup.jpg");
 background-size:300px auto; background-position: bottom right; background-repeat:no-repeat;
@@ -152,12 +158,6 @@ background-image: url("/assets/pics/heroes/480/legal.jpg");
 background-size:300px auto; background-position: bottom right; background-repeat:no-repeat;
 
 font-family:Barrio, sans-serif; color: ;   text-shadow:1px 1px 0px rgba(0,0,0,0.5); }
-
-#articles-vidding-interview {background-color:#000;
-background-image: url("/assets/pics/heroes/480/interview.gif");
-background-size:300px auto; background-position: bottom right; background-repeat:no-repeat;
-
-font-family:Abril Fatface, sans-serif; color: ;   text-shadow:1px 1px 0px rgba(0,0,0,0.5); }
 
 #articles-vids-glitter {background-color:#000;
 background-image: url("/assets/pics/heroes/480/glitter.jpg");

@@ -10,13 +10,14 @@ hero: interview.gif
 tools: [scrollify, youtube]
 fonts: ["Abril Fatface", Amatic SC"]
 code: |
- .loki, .pteryx {font-family:"bromelloregular", sans-serif; font-size:2rem; margin-right:1rem}
+ article header {background:url(/assets/pics/posts/interview/head.jpg) top left no-repeat}
+.loki, .pteryx {font-family:"bromelloregular", sans-serif; font-size:2rem; margin-right:1rem}
  #images-head {background-image:url(/assets/pics/posts/interview/images-head.jpg); }
  .splash blockquote {left:20%; top:20%;color:rgb(15,100,100); text-shadow:3px 5px 0px #fff; font-family:"Amatic SC"; font-size:3rem}
  .pullquote {max-width:100%; text-align:center; background:none; box-shadow:none}
  #division {background-image:url(/assets/pics/posts/interview/division.jpg)}
  #division blockquote {left:50%; top:50%}
- article header h2 {text-align:center;}
+ article header h2 {text-align:center;text-shadow:-1px -1px 0px #fff, 1px 1px 0px #fff, 1px 1px 10px yellow; padding-top:25vh}}
  article header h2, .content h3, .content h4 {font-family:"Abril Fatface"; font-size:10vw;}
  section#process {background:#fff; background: linear-gradient(rgba(255,255,255,0.9), rgba(230,230,250,0.75), rgba(255,255,255,0.9));}
  h3#process { text-shadow:-2px -2px 1px #fff}
