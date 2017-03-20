@@ -11,7 +11,7 @@ tools: [scrollify, youtube]
 fonts: ["Abril Fatface", Amatic SC"]
 code: |
  article header {background:url(/assets/pics/posts/interview/head.jpg) top left no-repeat}
-.loki, .pteryx {font-family:"bromelloregular", sans-serif; font-size:2rem; margin-right:1rem}
+ .loki, .pteryx {font-family:"bromelloregular", sans-serif; font-size:2rem; margin-right:1rem}
  #images-head {background-image:url(/assets/pics/posts/interview/images-head.jpg); }
  .splash blockquote {left:20%; top:20%;color:rgb(15,100,100); text-shadow:3px 5px 0px #fff; font-family:"Amatic SC"; font-size:3rem}
  .pullquote {max-width:100%; text-align:center; background:none; box-shadow:none}
