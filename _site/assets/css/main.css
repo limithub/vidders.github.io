@@ -26,6 +26,7 @@ a, a:link, button { text-decoration: none; color:inherit; font-weight: normal; t
 a:hover {color:rgb(210,115,150)}
 h1,h2,h3,h4,h5, button,dt {font-family:Chivo,Helvetica, sans-serif; line-height:1;}
 .landmark{font-size:0;opacity:0}
+.hidden {display:none;}
 ul { list-style:none; }
 .cell img, iframe {width:100%; height:auto; }
 q, blockquote { quotes: "\201C" "\201D" "\2018" "\2019";}

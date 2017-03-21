@@ -6,19 +6,22 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 20 Mar 2017 19:24:24 +0000</pubDate>
-    <lastBuildDate>Mon, 20 Mar 2017 19:24:24 +0000</lastBuildDate>
+    <pubDate>Tue, 21 Mar 2017 21:17:29 +0000</pubDate>
+    <lastBuildDate>Tue, 21 Mar 2017 21:17:29 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
         <title>Mashup</title>
-        <description>&lt;section class=&quot;video&quot;&gt;&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/mmbsJ5t0vcg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/section&gt;
+        <description>&lt;div class=&quot;dark parallax&quot; id=&quot;subtitle&quot;&gt;
+&lt;h4&gt;Or, what it was like to have a vid included in an art gallery exhibit&lt;/h4&gt;
+&lt;h5&gt;By Bironic&lt;/h5&gt;
+&lt;/div&gt;
 
 &lt;section class=&quot;opener&quot; id=&quot;orientation&quot;&gt;
 &lt;div class=&quot;copy&quot; id=&quot;guide&quot;&gt;
     &lt;div class=&quot;toc&quot;&gt;
-      &lt;h3 id=&quot;orientation-guide&quot;&gt;Orientation guide&lt;/h3&gt;
-      &lt;ul&gt;
+      &lt;h3 id=&quot;orientation&quot;&gt;Orientation&lt;/h3&gt;
+      &lt;ol&gt;
         &lt;li&gt;&lt;a href=&quot;#screening&quot;&gt;Screening room&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&quot;#legal&quot;&gt;To show, or not to show: Legalities&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&quot;#crisis&quot;&gt;Identity crisis&lt;/a&gt;&lt;/li&gt;
@@ -30,7 +33,7 @@
         &lt;li&gt;&lt;a href=&quot;#wall&quot;&gt;Vids onna wall&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&quot;#kandy&quot;&gt;Special exhibit: Kandy Fong&lt;/a&gt;&lt;/li&gt;
         &lt;li&gt;&lt;a href=&quot;#exit&quot;&gt;Exit through the gift shop&lt;/a&gt;&lt;/li&gt;
-      &lt;/ul&gt;
+      &lt;/ol&gt;
 
     &lt;/div&gt;
 
@@ -47,11 +50,21 @@
 &lt;/section&gt;
 
 &lt;section class=&quot;splash parallax&quot; id=&quot;vidding-wall&quot;&gt;
-&lt;h3&gt;Screening Room&lt;/h3&gt;
 &lt;/section&gt;
 
-&lt;section class=&quot;dark slideshow&quot; id=&quot;screening&quot;&gt;
+&lt;section class=&quot;dark&quot; id=&quot;screening&quot;&gt;
+
+&lt;div class=&quot;dark slideshow&quot;&gt;
 &lt;ul class=&quot;slides&quot;&gt;
+&lt;li id=&quot;screening-card&quot;&gt;
+&lt;h3&gt;Screening Room&lt;/h3&gt;
+
+&lt;/li&gt;
+&lt;li&gt;
+&lt;div class=&quot;video&quot;&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/mmbsJ5t0vcg&quot; class=&quot;lazyload&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/li&gt;
 &lt;li&gt;
 &lt;figure class=&quot;video&quot;&gt;
 &lt;iframe class=&quot;lazyload&quot; src=&quot;http://www.criticalcommons.org/Members/fcoppa/clips/both-sides-now/embed_view&quot; frameborder=&quot;0&quot; width=&quot;630&quot; height=&quot;460&quot;&gt;&lt;/iframe&gt;
@@ -84,9 +97,9 @@ Starships by &lt;a href=&quot;http://fanlore.org/wiki/Bironic&quot;&gt;Bironic&l
 &lt;figure class=&quot;video&quot;&gt;
 &lt;iframe class=&quot;lazyload&quot; src=&quot;https://player.vimeo.com/video/43763782&quot; width=&quot;640&quot; height=&quot;368&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;figcaption&gt;
-          &lt;p&gt;The Lightning Strike by &lt;a href=&quot;http://fanlore.org/wiki/Obsessive24&quot;&gt;Obsessive24&lt;/a&gt;&lt;br /&gt;
+            &lt;p&gt;The Lightning Strike by &lt;a href=&quot;http://fanlore.org/wiki/Obsessive24&quot;&gt;Obsessive24&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://obsessive24.livejournal.com/460865.html&quot;&gt;Comment on LJ&lt;/a&gt;, password at LJ&lt;/p&gt;
-        &lt;/figcaption&gt;
+          &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/li&gt;
 
@@ -116,8 +129,9 @@ The Test by &lt;a href=&quot;http://fanlore.org/wiki/Here%27s_luck&quot;&gt;Here
 &lt;/div&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
-
+&lt;/div&gt;
 &lt;p&gt;Links gathered in part from &lt;a href=&quot;limvids.tumblr.com/post/139655749712/mashup-the-birth-of-modern-culture&quot;&gt;limvids&lt;/a&gt; on tumblr.&lt;/p&gt;
+
 &lt;/section&gt;
 &lt;section class=&quot;copy&quot; id=&quot;legal&quot;&gt;
   &lt;h3 id=&quot;legalities&quot;&gt;Legalities&lt;/h3&gt;
@@ -217,6 +231,7 @@ Jan. 16, 2017&lt;/p&gt;
 &lt;h3&gt;Sh*t Gets Real&lt;/h3&gt;
 &lt;/section&gt;
 
+&lt;div class=&quot;limiter&quot;&gt;
 &lt;section class=&quot;slideshow&quot;&gt;
       &lt;ul class=&quot;slides&quot;&gt;
          &lt;li id=&quot;slidecard&quot;&gt;
@@ -251,19 +266,20 @@ Jan. 16, 2017&lt;/p&gt;
           &lt;/figure&gt;
         &lt;/li&gt;
         &lt;li&gt;
-          &lt;figure&gt;&lt;img src=&quot;/assets/pics/posts/mashup/artists.gif&quot; class=&quot;lazyload&quot; /&gt;
+          &lt;figure&gt;&lt;img src=&quot;/assets/pics/posts/mashup/omg-artists.gif&quot; class=&quot;lazyload&quot; /&gt;
             &lt;figcaption&gt;The complete &lt;a href=&quot;http://projects.vanartgallery.bc.ca/mashup/list_of_works.pdf&quot;&gt;list of artists&lt;/a&gt; is released: OMG
             &lt;/figcaption&gt;
           &lt;/figure&gt;
         &lt;/li&gt;
          &lt;li&gt;
           &lt;figure&gt;
-          &lt;img src=&quot;/assets/pics/posts/mashup/shit.jpg&quot; data-src=&quot;/assets/pics/posts/mashup/320/shit.jpg&quot; data-srcset=&quot;/assets/pics/posts/mashup/480/shit.jpg 480w, /assets/pics/posts/mashup/640/shit.jpg 640w, /assets/pics/posts/mashup/980/shit.jpg 980w, /assets/pics/posts/mashup/1280/shit.jpg 1280w&quot; data-sizes=&quot;auto&quot; class=&quot;lazyload&quot; /&gt;
+          &lt;img src=&quot;/assets/pics/posts/mashup/banner-omg.jpg&quot; class=&quot;lazyload&quot; /&gt;
           &lt;figcaption&gt;OMFG&lt;/figcaption&gt;
           &lt;/figure&gt;
         &lt;/li&gt;
       &lt;/ul&gt;
     &lt;/section&gt;
+&lt;/div&gt;
 
 &lt;section class=&quot;copy&quot; id=&quot;real&quot;&gt;
   &lt;p&gt;Months after signing the contracts, sort of waiting for the other shoe to drop—because how could something this cool really happen, or happen without complications—it finally felt real. Somehow I had created something that someone thought worth including in this exhibit. Somehow Francesca considered “Starships!” on a level with works by Kandy Fong and obsessive24 and here’s luck and Lim and Shadow Songs, at least in a collection themed around the progression of mashups. WTF, right? &lt;/p&gt;
@@ -424,13 +440,13 @@ Jan. 28, 2017&lt;/p&gt;
       &lt;p&gt;I haunted the vidding area for probably 45-60 minutes on and off over the course of the evening to see how people behaved when they came over. Reactions seemed to run the gamut: Some kept walking, some glanced at a screen or two and continued on, some read the vidding description with interest, some watched whole or parts of vids without audio, some put on the headphones and did the same, some shared or tried to share the headphones with whomever they were with (some partners accepted and others refused), a few went from screen to screen and watched at least part of each in turn.&lt;/p&gt;
 
       &lt;p&gt;I wish we as a community could have stationed someone besides the docent in the room with a button that said “Ask me about vidding!” or something. For example, to explain how to do it “right.” But then, in the midst of an exhibit about remix, appropriation and subverting authorial intentions, who’s to say what “right” is?&lt;/p&gt;
-    &lt;/div&gt;
-&lt;/div&gt;
-
-&lt;figure class=&quot;video&quot;&gt;
+      &lt;figure class=&quot;video&quot;&gt;
   &lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/XywWQGj8uDs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
   &lt;figcaption&gt;Or in video format&lt;/figcaption&gt;
 &lt;/figure&gt;
+
+    &lt;/div&gt;
+&lt;/div&gt;
 &lt;/section&gt;
 
 &lt;section class=&quot;dark invert slideshow&quot;&gt;
@@ -1172,7 +1188,7 @@ Jan. 29, 2017&lt;/p&gt;
 
   &lt;aside class=&quot;right wider&quot;&gt;
     &lt;figure&gt;
-&lt;img src=&quot;/assets/pics/posts/320/history/slide.jpg&quot; data-src=&quot;/assets/pics/posts/history/320/slide.jpg&quot; data-srcset=&quot;/assets/pics/posts/history/480/slide.jpg 480w, /assets/pics/posts/history/640/slide.jpg 640w, /assets/pics/posts/history/980/slide.jpg 980w, /assets/pics/posts/history/1280/slide.jpg 1280w&quot; data-sizes=&quot;auto&quot; class=&quot;lazyload&quot; /&gt;
+&lt;img src=&quot;/assets/pics/posts/320/history/slide.jpg&quot; data-src=&quot;/assets/pics/posts/history/320/slide.jpg&quot; data-srcset=&quot;/assets/pics/posts/history/320/slide.jpg 320w, /assets/pics/posts/history/480/slide.jpg 480w, /assets/pics/posts/history/640/slide.jpg 640w, /assets/pics/posts/history/980/slide.jpg 980w, /assets/pics/posts/history/1280/slide.jpg 1280w&quot; data-sizes=&quot;auto&quot; class=&quot;lazyload&quot; /&gt;
 &lt;figcaption&gt;
         &lt;p&gt;Kodak slide carousel: The slides, 35 mm film clips encased in a cardboard sleeve, are projected against a darkened wall or screen. Early slide projectors were manually operated, but later ones could be programmed to advance slides at a regular pace. &lt;a href=&quot;https://en.wikipedia.org/wiki/Carousel_slide_projector&quot;&gt;They became popular in the mid-1960s. &lt;/a&gt; Slide projectors were discontinued in 2004.&lt;/p&gt;
       &lt;/figcaption&gt;
@@ -1199,7 +1215,71 @@ Jan. 29, 2017&lt;/p&gt;
 
   &lt;div class=&quot;audio&quot;&gt;&lt;iframe class=&quot;lazyload&quot; width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/311493106%3Fsecret_token%3Ds-Y6726&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
-  &lt;p&gt;Listen to a five minute excerpt from Kandy Fong’s 2012 interview about the inspiration for the first fanvids and how Gene Roddenberry helped support them. The entire 90 minute interview is archived at the University of Iowa: &lt;a href=&quot;ttp://digital.lib.uiowa.edu/cdm/singleitem/collection/fohp/id/0/rec/&quot;&gt;Kandy Fong and Marnie oral history interview&lt;/a&gt;, Escapade convention, Ventura, California, February 24, 2012&lt;/p&gt;
+  &lt;p&gt;Listen to a five minute excerpt from Kandy Fong’s 2012 interview about the inspiration for the first fanvids and how Gene Roddenberry helped support them. The entire 90 minute interview is archived at the University of Iowa: &lt;a href=&quot;http://digital.lib.uiowa.edu/cdm/singleitem/collection/fohp/id/0/rec/&quot;&gt;Kandy Fong and Marnie oral history interview&lt;/a&gt;, Escapade convention, Ventura, California, February 24, 2012 &lt;a href=&quot;#panel&quot; class=&quot;toggle&quot;&gt;[transcript ↓]&lt;/a&gt;&lt;/p&gt;
+  &lt;div class=&quot;hidden&quot; id=&quot;panel&quot; style=&quot;width:48rem;&quot;&gt;
+    &lt;h4 id=&quot;transcript&quot;&gt;Transcript&lt;/h4&gt;
+    &lt;p&gt;KF: ….. music videos.&lt;/p&gt;
+
+    &lt;p&gt;MS:  Yes.&lt;/p&gt;
+
+    &lt;p&gt;KF:  ‘Cause I remember Mary Van Deusen—&lt;/p&gt;
+
+    &lt;p&gt;MS:  Yes—&lt;/p&gt;
+
+    &lt;p&gt;KF:  —brought a bunch of those.&lt;/p&gt;
+
+    &lt;p&gt;MS:  —Mary Van Deusen brought a bunch, and we began showing videos I think at the second IDICon.&lt;/p&gt;
+
+    &lt;p&gt;KF:  Was it the second one?&lt;/p&gt;
+
+    &lt;p&gt;MS:  Yeah.  I think it started with the second, and those, when you look back now, of course, the technical quality is like totally, totally different.  But, yes.  They began.  They were starting right then and there.  Yeah.  It was the second IDICon.&lt;/p&gt;
+
+    &lt;p&gt;I:  So, I’m curious, where, I mean, you did the slide shows that were the first thing that kind of led to the entire institution of vidding, really.  Where did that come from? I know that other people, like obviously, did slide shows of other sorts, but not what you were doing.&lt;/p&gt;
+
+    &lt;p&gt;KF:  Okay.  The Beatles did a music video for “Strawberry Fields.”  Where they were doing things like jumping out of trees, and then this long piano, that went up— the strings went up into the tree, and they were doing all sorts of things.  They weren’t standing there and playing instruments, which was all the music videos you’d seen to date.  And I thought, duh.  This guy I’m dating has the cigar boxes full of little pieces of film from Star Trek.  I’ll betcha I could put those together and tell a story.&lt;/p&gt;
+
+    &lt;p&gt;MS:  Off-cuts, yes.&lt;/p&gt;
+
+    &lt;p&gt;KF:  And, because the local Star Trek club in Phoenix, which is the longest-running fan club in the world, United Federation of Phoenix — thank you, I named it—&lt;/p&gt;
+
+    &lt;p&gt;(laughter)&lt;/p&gt;
+
+    &lt;p&gt;KF:  Umm— needed entertainment.  I figured, well, let’s put together a little show.  So I said, “Hey.  Hey, best friend.  Hey, hey, future husband—&lt;/p&gt;
+
+    &lt;p&gt;(laughter)&lt;/p&gt;
+
+    &lt;p&gt;KF:  —let’s get this idea, and put together a show.&lt;/p&gt;
+
+    &lt;p&gt;MS:  John had no idea what he was getting into.&lt;/p&gt;
+
+    &lt;p&gt;KF:  I know.  That was his dowry.  The three cigar boxes full.&lt;/p&gt;
+
+    &lt;p&gt;MS:  (laughter)&lt;/p&gt;
+
+    &lt;p&gt;KF:  As well as the fact that he had all the episodes on three-quarter-inch tape.  Professional one-inch tape.  (unintelligible)&lt;/p&gt;
+
+    &lt;p&gt;MS:  One-inch tape.  So you knew he was a keeper, then.&lt;/p&gt;
+
+    &lt;p&gt;KF:  Yeah.  Definitely.  So, I decided that let’s do a thing there, I did a funny little thing where, uh, “What Do You Do With a Drunken Vulcan,” I did a little thing of that.&lt;/p&gt;
+
+    &lt;p&gt;MS:  Yes, I remember that.&lt;/p&gt;
+
+    &lt;p&gt;KF:  Then I did a little story about Ensign Fong aboard the Enterpr—, a very Mary Sue story.  Y’know, very little story, I just illustrated it.  And as a club we were all gonna go over to the very last IDICon Film Con that Bjo Trimble was doing.  And her husband was going to be coming to Phoenix for something with his job.  And I wrote to her, and said, “Hey, I have this thing I’d love to show at your convention.”  And she says, “Well, hey, I’m going to be coming in town with my husband, why don’t you show it to me?” So I did.  She says, “Cool.”  I ended up taking it to the convention and they put us in this little room at the bottom.  And she says, “Oh, I’m sure this’ll be a couple of people will want to see it.”  Well, it had only like thirty-five people I think that could fit into the room.  So they ran it in a loop, for eight hours.  People would see it, get out, go back in line again, and then stand in line for an hour and a half so they could see the seven-minute thing again.  And so that’s— I knew there was a hunger for it.  So, I had met Gene Roddenberry previously, ‘cause he was in Phoenix giving a speech and I was president of the Star Trek club, so I got to meet him.  It’s complicated, I’ll tell the story another time.  So, when he was there, I kinda say, “Hi!  I’m glad to see you.  By the way, would you sign my, y’know, my club badge, so I’m officially a fan of yours,” and he did.  And he— and I says, “By the way, I have this idea of putting together a slide show.”  He goes, “Oh, that’s a great idea.  I’ve been trying to convince Paramount that there’s enough fan interest in a movie.”  And I said, “Great.”  So I’m writing to him eventually, and he ended up writing back to me, and oh, I have it in writing, that I can do these slide shows.  And in fact, in the future years I ended up visiting a couple of times at Paramount.  And he gave me actual slides that were publicity shots, et cetera, from the various sets, so that I could kind of expand my slide shows, and show more.&lt;/p&gt;
+
+    &lt;p&gt;MS:  I went with you.&lt;/p&gt;
+
+    &lt;p&gt;KF:  Exactly.  You were there too.&lt;/p&gt;
+
+    &lt;p&gt;MS:  I went the first time.&lt;/p&gt;
+
+    &lt;p&gt;KF:  Yeah.&lt;/p&gt;
+
+    &lt;p&gt;MS:  That was before we moved out here.&lt;/p&gt;
+
+    &lt;p&gt;KF:  That’s true.  But— So I really got a chance to get—  People liked it……&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;#panel&quot; class=&quot;toggle&quot;&gt;close&lt;/a&gt;&lt;/p&gt;
+  &lt;/div&gt;
 &lt;/section&gt;
 &lt;hr /&gt;
 
@@ -1396,9 +1476,16 @@ To watch a fanvid is to have a simultaneous three-way conversation with your eye
 &lt;li&gt;
 &lt;figure&gt;
 &lt;img src=&quot;/assets/pics/posts/history/howto/2.jpg&quot; data-src=&quot;/assets/pics/posts/history/howto/320/2.jpg&quot; data-srcset=&quot;/assets/pics/posts/history/howto/480/2.jpg 480w, /assets/pics/posts/history/howto/640/2.jpg 640w, /assets/pics/posts/history/howto/980/2.jpg 980w, /assets/pics/posts/history/howto/1280/2.jpg 1280w, /assets/pics/posts/history/howto/1600/2.jpg 1600w&quot; data-sizes=&quot;auto&quot; class=&quot;lazyload&quot; /&gt;
-&lt;figcaption&gt;1980s, Audio Dub Instructions&quot;&lt;a href=&quot;https://en.wikipedia.org/wiki/The_Creation_of_Adam&quot;&gt;Creatio Vidding&lt;/a&gt; &quot;(Behold, the Creation of Vidding) Source: &lt;a href=&quot;http://videopreservation.conservation-us.org/vid_guide/front/front.html&quot;&gt;The Video Guide by Charles Bensinger (c) 1981&lt;/a&gt; &lt;/figcaption&gt;
+&lt;figcaption&gt;1980s, Audio Dub Instructions &quot;&lt;a href=&quot;https://en.wikipedia.org/wiki/The_Creation_of_Adam&quot;&gt;Creatio Vidding&lt;/a&gt; &quot;(Behold, the Creation of Vidding) Source: &lt;a href=&quot;http://videopreservation.conservation-us.org/vid_guide/front/front.html&quot;&gt;The Video Guide by Charles Bensinger (c) 1981&lt;/a&gt; &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/li&gt;
+&lt;li&gt;
+&lt;figure&gt;
+&lt;img src=&quot;/assets/pics/posts/history/howto/3.jpg&quot; data-src=&quot;/assets/pics/posts/history/howto/3.jpg&quot; data-srcset=&quot;/assets/pics/posts/history/howto/480/3.jpg 480w, /assets/pics/posts/history/howto/640/3.jpg 640w, /assets/pics/posts/history/howto/980/3.jpg 980w, /assets/pics/posts/history/howto/1280/3.jpg 1280w, /assets/pics/posts/history/howto/1600/3.jpg 1600w&quot; data-sizes=&quot;auto&quot; class=&quot;lazyload&quot; /&gt;
+&lt;figcaption&gt;A handwritten diagram from 1995 showing the eight steps needed to insert a single video clip. Step 8 reads: “hold finger on target pause to stop [recording] if crisis happens.” Source: Morgan Dawn’s personal collection.&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;/li&gt;
+
 &lt;li&gt;
 &lt;figure&gt;
 &lt;img src=&quot;/assets/pics/posts/history/howto/4.jpg&quot; data-src=&quot;/assets/pics/posts/history/howto/320/4.jpg&quot; data-srcset=&quot;/assets/pics/posts/history/howto/480/4.jpg 480w, /assets/pics/posts/history/howto/640/4.jpg 640w, /assets/pics/posts/history/howto/980/4.jpg 980w, /assets/pics/posts/history/howto/1280/4.jpg 1280w, /assets/pics/posts/history/howto/1600/4.jpg 1600w&quot; data-sizes=&quot;auto&quot; class=&quot;lazyload&quot; /&gt;
@@ -1449,7 +1536,11 @@ To watch a fanvid is to have a simultaneous three-way conversation with your eye
   &lt;figure&gt;
 &lt;img src=&quot;/assets/pics/posts/320/history/vcr-tape.jpg&quot; data-src=&quot;/assets/pics/posts/history/320/vcr-tape.jpg&quot; data-srcset=&quot;/assets/pics/posts/history/480/vcr-tape.jpg 480w, /assets/pics/posts/history/640/vcr-tape.jpg 640w, /assets/pics/posts/history/980/vcr-tape.jpg 980w, /assets/pics/posts/history/1280/vcr-tape.jpg 1280w&quot; data-sizes=&quot;auto&quot; class=&quot;lazyload&quot; /&gt;
 &lt;figcaption&gt;
-      &lt;p&gt;A chewed-up videotape, every vidder’s nightmare&lt;/p&gt;
+      &lt;p&gt;A chewed-up videotape, every vidder’s nightmare.&lt;/p&gt;
+
+      &lt;p&gt;“VCR tape rollback may cause you to lose part of your previous shot if you fail to start the recorder in the proper place for the next shot.”&lt;/p&gt;
+
+      &lt;p&gt;&lt;cite&gt;Source: &lt;a href=&quot;http://files.eric.ed.gov/fulltext/ED268993.pdf&quot;&gt;1985 Student Video Productions Handbook&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -1461,12 +1552,6 @@ To watch a fanvid is to have a simultaneous three-way conversation with your eye
   &lt;/blockquote&gt;
 
   &lt;h3 id=&quot;editing-challenges-part-2-analog-video-linear-editing-two-dimensional-living&quot;&gt;Editing Challenges Part 2: Analog Video &amp;amp;Linear Editing: Two-Dimensional Living:&lt;/h3&gt;
-
-  &lt;blockquote class=&quot;sidequote right&quot;&gt;
-    &lt;p&gt;“VCR tape rollback may cause you to lose part of your previous shot if you fail to start the recorder in the proper place for the next shot.”&lt;/p&gt;
-
-    &lt;p&gt;&lt;cite&gt;Source: &lt;a href=&quot;http://files.eric.ed.gov/fulltext/ED268993.pdf&quot;&gt;1985 Student Video Productions Handbook&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
-  &lt;/blockquote&gt;
 
   &lt;p&gt;Another “feature” of analog vidding is that a vid has to be made in order, from start to finish. While a fan could theoretically insert a new &lt;a href=&quot;https://fanlore.org/wiki/Clip&quot;&gt;clip&lt;/a&gt; in the middle of a vid, they ran into the problem of erasing the following clip if they did not hit the “pause” button while recording. This is why early analog vidders created storyboards and planned out their vids ahead of time.&lt;/p&gt;
 
@@ -2080,18 +2165,21 @@ To watch a fanvid is to have a simultaneous three-way conversation with your eye
   &lt;p&gt;For several years, 2011-2016 more or less, when introducing myself at a fannish meet-up and being asked about my current interests, I answered, “Glee…God help me.” Within broader media fandom, Glee doesn’t exactly have a reputation as a pinnacle of art and good taste. Admitting I watched it conferred no dignity upon me. Plenty of us have been there, falling for some compelling detail of an otherwise frustrating show, and, to their credit, my friends were mostly sympathetic, and listened to me babble about aesthetics and queerness and sound design with great patience. When I first mentioned it on my blog, and tried to explain what on earth had allured me, I described it thus:&lt;/p&gt;
 
   &lt;blockquote class=&quot;long&quot;&gt;
-    &lt;p&gt;It’s hours and hours of headdesking interrupted by fleeting moments of transcendent, culture-defining genius. It is—90% of the time—not a show about the way things are, not realism; it’s a show about the way things feel. It’s loud, technicolour, ecstatic, mortifying, and deeply stupid. It is a show about self-absorption: every little humiliation is epic, and every triumph is also vindication. It’s not a very nice show, mostly. But every once in a while it shoves itself aside, and is surprised to find it was sitting on a kernel of truth.&lt;/p&gt;
+    &lt;p&gt;It’s hours and hours of headdesking interrupted by fleeting moments of transcendent, culture-defining genius. It is–90% of the time–not a show about the way things are, not realism; it’s a show about the way things feel. It’s loud, technicolour, ecstatic, mortifying, and deeply stupid. It is a show about self-absorption: every little humiliation is epic, and every triumph is also vindication. It’s not a very nice show, mostly. But every once in a while it shoves itself aside, and is surprised to find it was sitting on a kernel of truth.&lt;/p&gt;
   &lt;/blockquote&gt;
 
-  &lt;p&gt;The truth frequently found itself lodged in the throat of Kurt Hummel, the gay boy named after a porcelain figurine and a Sound of Music character, played with guts and subtlety by Colfer. In 2009, Glee was one of the first major-network shows to give a gay teenager a starring role. Kurt began as a small, effeminate stereotype, and over six years became an icon—-not a supporting character, or comic relief or a tragic example, but a full-blown goddamned Campbellian hero with a front page, A-plot romance. When the show got dreadful (and it was always swinging wildly toward dreadful on some axis or other), it was Kurt for whom I stayed. Kurt and his boyfriend, Blaine, individually and as a pair.&lt;/p&gt;
+  &lt;p&gt;The truth frequently found itself lodged in the throat of Kurt Hummel, the gay boy named after a porcelain figurine and a Sound of Music character, played with guts and subtlety by Colfer. In 2009, Glee was one of the first major-network shows to give a gay teenager a starring role. Kurt began as a small, effeminate stereotype, and over six years became an icon–not a supporting character, or comic relief or a tragic example, but a full-blown goddamned Campbellian hero with a front page, A-plot romance. When the show got dreadful (and it was always swinging wildly toward dreadful on some axis or other), it was Kurt for whom I stayed. Kurt and his boyfriend, Blaine, individually and as a pair.&lt;/p&gt;
 
-  &lt;p&gt;Kitschy old Glee, viewed through my Kurt-coloured glasses, is a show about queer identity, restlessness, and nostalgia. Despite the autotuned pop sensibility that critics love to bash, it’s riddled with obscure movie and musical references as well as extended tributes to artists and artworks its teenaged target audience had almost no familiarity with and no investment in—from Judy Garland Christmas specials to recreations of Wham! videos from the eighties. Sometimes these tributes stem from a deeply sincere desire to bring the best of American pop culture history to the attention of the next generation. Other song choices seem purely self-indulgent on showrunner Ryan Murphy’s part, winking at an audience of a dozen people.&lt;/p&gt;
+  &lt;p&gt;Kitschy old Glee, viewed through my Kurt-coloured glasses, is a show about queer identity, restlessness, and nostalgia. Despite the autotuned pop sensibility that critics love to bash, it’s riddled with obscure movie and musical references as well as extended tributes to artists and artworks its teenaged target audience had almost no familiarity with and no investment in–from Judy Garland Christmas specials to recreations of Wham! videos from the eighties. Sometimes these tributes stem from a deeply sincere desire to bring the best of American pop culture history to the attention of the next generation. Other song choices seem purely self-indulgent on showrunner Ryan Murphy’s part, winking at an audience of a dozen people.&lt;/p&gt;
 
-  &lt;div class=&quot;slider&quot; style=&quot;height:480px&quot;&gt;&lt;iframe class=&quot;juxtapose&quot; frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;1280&quot; src=&quot;https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=796bdcb8-eef9-11e6-8b75-0edaf8f81e27&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+  &lt;div class=&quot;slider juxtapose&quot;&gt;
+  &lt;img src=&quot;/assets/pics/posts/show/SLIDE2.jpg&quot; data-label=&quot;Oct 4 1963&quot; /&gt;
+  &lt;img src=&quot;/assets/pics/posts/show/SLIDE1.jpg&quot; data-label=&quot;Oct 12 2010&quot; /&gt;
+&lt;/div&gt;
 
   &lt;p&gt;Lola’s vid, archly titled “You,” reflects the same ambivalence toward Glee and Ryan Murphy’s masturbatory nostalgia. At first glance, it’s a character study of Kurt that makes thoughtful use of old movie footage to deepen its argument. It’s also a study of Kurt’s own use of vintage texts and personalities to make sense of his position in the world. On a third level, “You” is a grumpy dig at Murphy himself, and the constraints Glee’s sloppy, Prime Time structure places on a character whose narrative potential grew far greater than the imaginations of his writers.&lt;/p&gt;
 
-  &lt;iframe class=&quot;lazyload&quot; width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/33934630&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
+  &lt;iframe width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/33934630&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;
 
   &lt;p&gt;Lola’s song choice is “Sort Of” by Ingrid Michaelson. It’s about a couple in an unequal relationship. The singer is too intense and too invested in a lover who doesn’t reciprocate her feelings. The lyrics, read as a single, coherent arc, are not a perfect, literal match for the vid’s thesis, but rather shift in implication from clip to clip, verse to verse. And though Kurt’s boyfriend has an important role to play, Lola’s primary interest isn’t shipping. Michaelson’s refrain goes, “My love’s too big for you, my love.” Lola’s “you” isn’t Blaine, though, but—well. Kurt is a gay boy in a small town. It doesn’t matter who or what is the object; Kurt loves many things. His love is always already too frightening and too big.&lt;/p&gt;
 
@@ -2667,19 +2755,15 @@ And Lex knows that he’s courting destruction when he tries to pull Clark towar
 &lt;/div&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;div class=&quot;fullscreen video&quot;&gt;
+&lt;div class=&quot;video&quot;&gt;
 &lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/MbMnTLxUeP8?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;/div&gt;
 &lt;/li&gt;
 
 &lt;li&gt;
-&lt;picture class=&quot;lazyload&quot;&gt;
-  &lt;source srcset=&quot;/assets/pics/posts/mykonos/huge.jpg&quot; media=&quot;(min-width: 1600px)&quot; /&gt;
-  &lt;source srcset=&quot;/assets/pics/posts/mykonos/desktop.jpg&quot; media=&quot;(min-width: 980px)&quot; /&gt;
-  &lt;source srcset=&quot;/assets/pics/posts/mykonos/tablet.jpg&quot; media=&quot;(min-width: 480px)&quot; /&gt;
-  &lt;source srcset=&quot;/assets/pics/posts/mykonos/phone.jpg&quot; media=&quot;(min-width: 0px)&quot; /&gt;
-  &lt;img srcset=&quot;/assets/pics/posts/mykonos/default.jpg&quot; alt=&quot;a beautiful picture of the ship in pastels&quot; /&gt;
-&lt;/picture&gt;
+&lt;p class=&quot;image&quot;&gt;
+  &lt;img src=&quot;/assets/pics/posts/mykonos/1280.jpg&quot; srcset=&quot;/assets/pics/posts/mykonos/480.jpg 480w, /assets/pics/posts/mykonos/640.jpg 640w, /assets/pics/posts/mykonos/980.jpg 980w, /assets/pics/posts/mykonos/1280.jpg 1280w, /assets/pics/posts/mykonos/1600.png 1600w, /assets/pics/posts/mykonos/retina.png 2200w, /assets/pics/posts/mykonos/full.png 4000w&quot; alt=&quot;a beautiful picture of the ship in pastels&quot; class=&quot;lazyload&quot; /&gt;
+ &lt;/p&gt;
 &lt;/li&gt;
 
 &lt;/ul&gt;

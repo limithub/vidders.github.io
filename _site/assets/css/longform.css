@@ -93,6 +93,7 @@ figure.slider img {width:auto;}
 
 .slideshow.max figure {max-height:1200px;}
 .slideshow.max img {max-height:1200px; max-width:1600px;}
+.slideshow figure iframe {position:relative;}
 
 
 /*[ flipbook]*/

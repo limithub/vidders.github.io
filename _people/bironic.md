@@ -9,7 +9,7 @@ socials:
   url: https://archiveofourown.org/users/bironic
  -
   site: tumblr
-  url: http://bironic.tumblr.com/
+  url: http://bironicwastaken.tumblr.com/
  -
   site: youtube
   url: https://www.youtube.com/user/closetfan
@@ -19,6 +19,9 @@ socials:
  - 
   site: livejournal
   url: http://bironic.livejournal.com/
+ -
+  site: twitter
+  url: https://twitter.com/bironicwastaken
 icon: bironic.jpg
 categories: [about, people]
 ---
