@@ -97,8 +97,8 @@ wide
 	
  	<div class="text">
 		<h4 class="typeset" 
-		 style="font-family:'Limelight',Oswald;" 
-		><a href="/articles/vids/show.html">
+		 style="font-family:Limelight, Oswald, monospace;" >
+		<a href="/articles/vids/show.html">
 		<span class="slabtext">How&nbsp;to</span> <span class="slabtext">Leave</span> <span class="slabtext">this</span> <span class="slabtext">Show</span>
  </a></h4>
  		<blockquote class="landmark">
@@ -117,8 +117,8 @@ tall
 	
  	<div class="text">
 		<h4 class="typeset" 
-		 style="font-family:'Orbitron',Oswald;" 
-		><a href="/articles/vids/scream.html">
+		 style="font-family:Orbitron, Oswald, monospace;" >
+		<a href="/articles/vids/scream.html">
 		 Scream</a></h4>
  		<blockquote class="landmark">
  		Scream by Laura Shapiro and Kass
@@ -136,8 +136,8 @@ default
 	
  	<div class="text">
 		<h4 class="typeset" 
-		 style="font-family:'Bangers',Oswald;" 
-		><a href="/articles/vids/romance.html">
+		 style="font-family:Bangers, Oswald, monospace;" >
+		<a href="/articles/vids/romance.html">
 		<span>Bad</span> <span>Romance</span>
  </a></h4>
  		<blockquote class="landmark">
@@ -156,8 +156,8 @@ default
 	
  	<div class="text">
 		<h4 class="typeset" 
-		 style="font-family:'Rubik Mono One',Oswald;" 
-		><a href="/articles/vids/prowl.html">
+		 style="font-family:Rubik Mono One, Oswald, monospace;" >
+		<a href="/articles/vids/prowl.html">
 		<span class="slabtext">On The</span> <span class="slabtext">Prowl</span>
  </a></h4>
  		<blockquote class="landmark">
@@ -176,8 +176,8 @@ wide tall
 	
  	<div class="text">
 		<h4 class="typeset" 
-		 style="font-family:'Cinzel',Oswald;" 
-		><a href="/articles/vids/mykonos.html">
+		 style="font-family:Cinzel, Oswald, monospace;" >
+		<a href="/articles/vids/mykonos.html">
 		 Mykonos</a></h4>
  		<blockquote class="landmark">
  		Vid Response to Mykonos by Talitha78
@@ -195,8 +195,8 @@ wide
 	
  	<div class="text">
 		<h4 class="typeset" 
-		 style="font-family:'Oswald',Oswald;" 
-		><a href="/articles/vids/glitter.html">
+		 style="font-family:Oswald, Oswald, monospace;" >
+		<a href="/articles/vids/glitter.html">
 		<span class="slabtext">Glitter&nbsp;&amp;</span> <span class="slabtext">Gold</span> <span class="slabtext">Sound</span> <span class="slabtext">&amp;&nbsp;Story</span>
  </a></h4>
  		<blockquote class="landmark">
@@ -215,8 +215,8 @@ wide
 	
  	<div class="text">
 		<h4 class="typeset" 
-		
-		><a href="/articles/vids/featured-vids.html">
+		>
+		<a href="/articles/vids/featured-vids.html">
 		 Vidshow</a></h4>
  		<blockquote class="landmark">
  		Vidshow: the six vids discussed in depth in this zine
@@ -323,7 +323,7 @@ TODO: Packery (grid) has to come before Slabtext (typeset) but want a dryer meth
 
 var $grid = $('.grid').packery({
   itemSelector: '.cell',
-  gutter: 10
+  gutter: 0
 });
 
 // make all grid-items draggable
@@ -332,6 +332,7 @@ $grid.find('.cell').each( function( i, gridItem ) {
   // bind drag events to Packery
   $grid.packery( 'bindDraggabillyEvents', draggie );
 });
+
 </script>
 
 	

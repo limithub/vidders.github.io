@@ -10,7 +10,7 @@ fonts: [Oswald, Meddon]
 resources: |
 code: |
  
- article h2 {font:7vw/1.5 "Meddon", serif; text-align:center;}
+ article h2 {font:7vw/1.5 "Meddon", monospace; text-align:center;}
  #tos {clear:right}
 categories: [articles, vidding]
 ---

@@ -5,8 +5,8 @@
 	
  	<div class="text">
 		<h4 class="typeset" 
-		{% if post.fonts %} style="font-family:'{{ post.fonts | first | replace: "+", " "}}',Oswald;" {% endif %}
-		><a href="{{ post.url }}">
+		{% if post.fonts %} style="font-family:{{ post.fonts | first }}, Oswald, monospace;" {% endif %}>
+		<a href="{{ post.url }}">
 		{% if post.heading %}{{ post.heading }} {% else %} {{ post.title }}{% endif %}</a></h4>
  		<blockquote class="landmark">
  		{% if post.pitch %}{{ post.pitch | markdownify | strip_html}} 

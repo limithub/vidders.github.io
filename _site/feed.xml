@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 Mar 2017 14:06:08 +0000</pubDate>
-    <lastBuildDate>Wed, 22 Mar 2017 14:06:08 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Mar 2017 15:59:47 +0000</pubDate>
+    <lastBuildDate>Wed, 22 Mar 2017 15:59:47 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -1215,7 +1215,7 @@ Jan. 29, 2017&lt;/p&gt;
   &lt;div class=&quot;audio&quot;&gt;&lt;iframe class=&quot;lazyload&quot; width=&quot;100%&quot; height=&quot;166&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/311493106%3Fsecret_token%3Ds-Y6726&amp;amp;color=ff5500&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_comments=true&amp;amp;show_user=true&amp;amp;show_reposts=false&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 
   &lt;p&gt;Listen to a five minute excerpt from Kandy Fong’s 2012 interview about the inspiration for the first fanvids and how Gene Roddenberry helped support them. The entire 90 minute interview is archived at the University of Iowa: &lt;a href=&quot;http://digital.lib.uiowa.edu/cdm/singleitem/collection/fohp/id/0/rec/&quot;&gt;Kandy Fong and Marnie oral history interview&lt;/a&gt;, Escapade convention, Ventura, California, February 24, 2012 &lt;a href=&quot;#panel&quot; class=&quot;toggle&quot;&gt;[transcript ↓]&lt;/a&gt;&lt;/p&gt;
-  &lt;div class=&quot;hidden&quot; id=&quot;panel&quot; style=&quot;width:48rem;&quot;&gt;
+  &lt;div class=&quot;hidden&quot; id=&quot;panel&quot;&gt;
     &lt;h4 id=&quot;transcript&quot;&gt;Transcript&lt;/h4&gt;
     &lt;p&gt;KF: ….. music videos.&lt;/p&gt;
 

@@ -70,11 +70,11 @@ footer p[role="navigation"] {text-align:right; font-size:3vw;}
 footer p[role="navigation"] span.text {display:none;}
 
  /* ===[ Lists ]=== */
-ul.posts {margin:auto; max-width:95%; padding-top:100px;}
+ul.posts {margin:auto;  padding-top:60px;}
 
-li.cell {display: inline-block; opacity:0.8;float:left; width:100px; padding:2vw; min-height:100px; background-color:rgb(65,45,60);
+li.cell {display: inline-block; opacity:0.8;float:left; width:150px; padding:2vw; min-height:100px; background-color:rgb(65,45,60);
 position:relative; transition: background .25s ease-in-out;}
-li.wide {width:200px;}
+li.wide {width:310px;}
 li.tall {height:300px}
 
 ul.posts li:hover {background-position:top left !important;}
@@ -86,127 +86,127 @@ ul.posts blockquote {margin:auto 0; display:none;}
 
 #articles-vidding-mashup {background-color:#000;
 background-image: url("/assets/pics/heroes/480/mashup.jpg");
-background-size:300px auto; background-position: bottom right; background-repeat:no-repeat;
+background-size:cover; background-position: bottom right; background-repeat:no-repeat;
 
 font-family:Archivo Black, sans-serif; color: ;   text-shadow:1px 1px 0px rgba(0,0,0,0.5); }
 
 #articles-vidding-lyrical {background-color:#000;
 background-image: url("/assets/pics/heroes/480/lyrical.jpg");
-background-size:300px auto; background-position: bottom right; background-repeat:no-repeat;
+background-size:cover; background-position: bottom right; background-repeat:no-repeat;
 
 font-family:Cabin Sketch, sans-serif; color: ;   text-shadow:1px 1px 0px rgba(0,0,0,0.5); }
 
 #articles-vidding-history {background-color:#000;
 background-image: url("/assets/pics/heroes/480/history.jpg");
-background-size:300px auto; background-position: bottom right; background-repeat:no-repeat;
+background-size:cover; background-position: bottom right; background-repeat:no-repeat;
 
 font-family:Inconsolata, sans-serif; color: ;   text-shadow:1px 1px 0px rgba(0,0,0,0.5); }
 
 #articles-vids-show {background-color:#000;
 background-image: url("/assets/pics/heroes/480/giphy-mirror-glitch.gif");
-background-size:300px auto; background-position: bottom right; background-repeat:no-repeat;
+background-size:cover; background-position: bottom right; background-repeat:no-repeat;
 
 font-family:Limelight, sans-serif; color: ;   text-shadow:1px 1px 0px rgba(0,0,0,0.5); }
 
 #articles-vids-scream {background-color:#000;
 background-image: url("/assets/pics/heroes/480/scream.jpg");
-background-size:300px auto; background-position: bottom right; background-repeat:no-repeat;
+background-size:cover; background-position: bottom right; background-repeat:no-repeat;
 
 font-family:Orbitron, sans-serif; color: ;   text-shadow:1px 1px 0px rgba(0,0,0,0.5); }
 
 #articles-vids-romance {background-color:#000;
 background-image: url("/assets/pics/heroes/480/romance.jpg");
-background-size:300px auto; background-position: bottom right; background-repeat:no-repeat;
+background-size:cover; background-position: bottom right; background-repeat:no-repeat;
 
 font-family:Bangers, sans-serif; color: ;   text-shadow:1px 1px 0px rgba(0,0,0,0.5); }
 
 #articles-vids-prowl {background-color:#000;
 background-image: url("/assets/pics/heroes/480/prowl.jpg");
-background-size:300px auto; background-position: bottom right; background-repeat:no-repeat;
+background-size:cover; background-position: bottom right; background-repeat:no-repeat;
 
 font-family:Rubik Mono One, sans-serif; color: ;   text-shadow:1px 1px 0px rgba(0,0,0,0.5); }
 
 #articles-vidding-profiles {background-color:#000;
 background-image: url("/assets/pics/heroes/480/profiles.jpg");
-background-size:300px auto; background-position: bottom right; background-repeat:no-repeat;
+background-size:cover; background-position: bottom right; background-repeat:no-repeat;
 
 font-family:Karla, sans-serif; color: ;   text-shadow:1px 1px 0px rgba(0,0,0,0.5); }
 
 #articles-vidding-playlists {background-color:#000;
 background-image: url("/assets/pics/heroes/480/giphy-terrorvision.gif");
-background-size:300px auto; background-position: bottom right; background-repeat:no-repeat;
+background-size:cover; background-position: bottom right; background-repeat:no-repeat;
 
  text-shadow:1px 1px 0px rgba(0,0,0,0.5); }
 
 #articles-vids-mykonos {background-color:#000;
 background-image: url("/assets/pics/heroes/480/mykonos.jpg");
-background-size:300px auto; background-position: bottom right; background-repeat:no-repeat;
+background-size:cover; background-position: bottom right; background-repeat:no-repeat;
 
 font-family:Cinzel, sans-serif; color: ;   text-shadow:1px 1px 0px rgba(0,0,0,0.5); }
 
 #articles-vidding-limterview {background-color:#000;
 background-image: url("/assets/pics/heroes/480/extended.jpg");
-background-size:300px auto; background-position: bottom right; background-repeat:no-repeat;
+background-size:cover; background-position: bottom right; background-repeat:no-repeat;
 
 font-family:Oswald, sans-serif; color: ;   text-shadow:1px 1px 0px rgba(0,0,0,0.5); }
 
 #articles-vidding-legal {background-color:#000;
 background-image: url("/assets/pics/heroes/480/legal.jpg");
-background-size:300px auto; background-position: bottom right; background-repeat:no-repeat;
+background-size:cover; background-position: bottom right; background-repeat:no-repeat;
 
 font-family:Barrio, sans-serif; color: ;   text-shadow:1px 1px 0px rgba(0,0,0,0.5); }
 
 #articles-vidding-interview {background-color:#000;
 background-image: url("/assets/pics/heroes/480/interview.gif");
-background-size:300px auto; background-position: bottom right; background-repeat:no-repeat;
+background-size:cover; background-position: bottom right; background-repeat:no-repeat;
 
 font-family:Abril Fatface, sans-serif; color: ;   text-shadow:1px 1px 0px rgba(0,0,0,0.5); }
 
 #articles-vids-glitter {background-color:#000;
 background-image: url("/assets/pics/heroes/480/glitter.jpg");
-background-size:300px auto; background-position: bottom right; background-repeat:no-repeat;
+background-size:cover; background-position: bottom right; background-repeat:no-repeat;
 
 font-family:Oswald, sans-serif; color: ;   text-shadow:1px 1px 0px rgba(0,0,0,0.5); }
 
 #articles-vids-featured-vids {background-color:#000;
 background-image: url("/assets/pics/heroes/480/giphy-tvs.gif");
-background-size:300px auto; background-position: bottom right; background-repeat:no-repeat;
+background-size:cover; background-position: bottom right; background-repeat:no-repeat;
 
  text-shadow:1px 1px 0px rgba(0,0,0,0.5); }
 
 #articles-vidding-external {background-color:#000;
 background-image: url("/assets/pics/heroes/480/external.jpg");
-background-size:300px auto; background-position: bottom right; background-repeat:no-repeat;
+background-size:cover; background-position: bottom right; background-repeat:no-repeat;
 
 font-family:Inconsolata, sans-serif; color: ;   text-shadow:1px 1px 0px rgba(0,0,0,0.5); }
 
 #articles-vidding-demystifying {background-color:#000;
 background-image: url("/assets/pics/heroes/480/demyst.gif");
-background-size:300px auto; background-position: bottom right; background-repeat:no-repeat;
+background-size:cover; background-position: bottom right; background-repeat:no-repeat;
 
 font-family:Oswald, sans-serif; color: ;   text-shadow:1px 1px 0px rgba(0,0,0,0.5); }
 
 #articles-vidding-classics {background-color:#000;
 background-image: url("/assets/pics/heroes/480/classics.jpg");
-background-size:300px auto; background-position: bottom right; background-repeat:no-repeat;
+background-size:cover; background-position: bottom right; background-repeat:no-repeat;
 
  text-shadow:1px 1px 0px rgba(0,0,0,0.5); }
 
 #about-people {background-color:#000;
 background-image: url("");
-background-size:300px auto; background-position: bottom right; background-repeat:no-repeat;
+background-size:cover; background-position: bottom right; background-repeat:no-repeat;
 
  text-shadow:1px 1px 0px rgba(0,0,0,0.5); }
 
 #about-contact {background-color:#000;
 background-image: url("");
-background-size:300px auto; background-position: bottom right; background-repeat:no-repeat;
+background-size:cover; background-position: bottom right; background-repeat:no-repeat;
 
  text-shadow:1px 1px 0px rgba(0,0,0,0.5); }
 
 #about {background-color:#000;
 background-image: url("");
-background-size:300px auto; background-position: bottom right; background-repeat:no-repeat;
+background-size:cover; background-position: bottom right; background-repeat:no-repeat;
 
  text-shadow:1px 1px 0px rgba(0,0,0,0.5); }
 

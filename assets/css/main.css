@@ -72,11 +72,11 @@ footer p[role="navigation"] {text-align:right; font-size:3vw;}
 footer p[role="navigation"] span.text {display:none;}
 
  /* ===[ Lists ]=== */
-ul.posts {margin:auto; max-width:95%; padding-top:100px;}
+ul.posts {margin:auto;  padding-top:60px;}
 
-li.cell {display: inline-block; opacity:0.8;float:left; width:100px; padding:2vw; min-height:100px; background-color:rgb(65,45,60);
+li.cell {display: inline-block; opacity:0.8;float:left; width:150px; padding:2vw; min-height:100px; background-color:rgb(65,45,60);
 position:relative; transition: background .25s ease-in-out;}
-li.wide {width:200px;}
+li.wide {width:310px;}
 li.tall {height:300px}
 
 ul.posts li:hover {background-position:top left !important;}
@@ -88,7 +88,7 @@ ul.posts blockquote {margin:auto 0; display:none;}
 {% for post in site.posts %}
 #{{post.id | slugify}} {background-color:#000;
 background-image: url("{% if post.hero %}{{site.baseurl}}/assets/pics/heroes/480/{{post.hero }}{% endif %}");
-background-size:300px auto; background-position: bottom right; background-repeat:no-repeat;
+background-size:cover; background-position: bottom right; background-repeat:no-repeat;
 
 {% if post.fonts %}font-family:{{ post.fonts | first |}}, sans-serif; color: {{post.color}};  {% endif %} text-shadow:1px 1px 0px rgba(0,0,0,0.5); }
 {% endfor %}
