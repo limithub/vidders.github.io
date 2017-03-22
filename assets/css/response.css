@@ -71,5 +71,9 @@ canvas {width:320px}
 
 }
 
+/*figure this out!*/
+@media screen and (min-width: 980px) {
+  #articles-vids-glitter {height:500px}
+}
 
 
