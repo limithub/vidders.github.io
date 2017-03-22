@@ -3,7 +3,7 @@ layout: post
 title:  "extended remarks"
 pitch: |
  Extended remarks from the recreate coalition interview
-authors: [lim, gwyn]
+authors: [lim, gwyneth]
 hero: extended.jpg
 tools: []
 fonts: [Oswald, Meddon]
