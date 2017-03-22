@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 Mar 2017 13:12:44 +0000</pubDate>
-    <lastBuildDate>Wed, 22 Mar 2017 13:12:44 +0000</lastBuildDate>
+    <pubDate>Wed, 22 Mar 2017 13:36:18 +0000</pubDate>
+    <lastBuildDate>Wed, 22 Mar 2017 13:36:18 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -54,7 +54,7 @@
 
 &lt;section class=&quot;dark&quot; id=&quot;screening&quot;&gt;
 
-&lt;div class=&quot;dark slideshow&quot;&gt;
+&lt;div class=&quot;copy dark slideshow&quot;&gt;
 &lt;ul class=&quot;slides&quot;&gt;
 &lt;li id=&quot;screening-card&quot;&gt;
 &lt;h3&gt;Screening Room&lt;/h3&gt;
@@ -66,8 +66,8 @@
 &lt;/div&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;figure class=&quot;video&quot;&gt;
-&lt;iframe class=&quot;lazyload&quot; src=&quot;http://www.criticalcommons.org/Members/fcoppa/clips/both-sides-now/embed_view&quot; frameborder=&quot;0&quot; width=&quot;630&quot; height=&quot;460&quot;&gt;&lt;/iframe&gt;
+&lt;figure&gt;
+&lt;iframe src=&quot;http://www.criticalcommons.org/Members/fcoppa/clips/both-sides-now/embed_view&quot; frameborder=&quot;0&quot; width=&quot;630&quot; height=&quot;460&quot;&gt;&lt;/iframe&gt;
 &lt;figcaption&gt;
 Both Sides Now and Something To Talk About by &lt;a href=&quot;http://fanlore.org/wiki/Kandy_Fong&quot;&gt;Kandy Fong&lt;/a&gt;&lt;br /&gt;
 &lt;a href=&quot;http://archiveofourown.org/works/839489&quot;&gt;Comment on AO3&lt;/a&gt;&lt;/figcaption&gt;
@@ -86,8 +86,7 @@ Data's Dream by &lt;a href=&quot;http://fanlore.org/wiki/Shadow_Songs&quot;&gt;S
 &lt;li&gt;
 &lt;figure class=&quot;video&quot;&gt;
 &lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/bTGdGKEEiYE&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;figcaption&gt;
-Starships by &lt;a href=&quot;http://fanlore.org/wiki/Bironic&quot;&gt;Bironic&lt;/a&gt; &lt;br /&gt;
+&lt;figcaption&gt;Starships by &lt;a href=&quot;http://fanlore.org/wiki/Bironic&quot;&gt;Bironic&lt;/a&gt; &lt;br /&gt;
 &lt;a href=&quot;fanlore.org/wiki/Starships!_(multifandom_vid)&quot;&gt;About&lt;/a&gt;, &lt;a href=&quot;http://bironic.livejournal.com/290689.html&quot;&gt;Comment on LJ&lt;/a&gt;
 &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -97,9 +96,9 @@ Starships by &lt;a href=&quot;http://fanlore.org/wiki/Bironic&quot;&gt;Bironic&l
 &lt;figure class=&quot;video&quot;&gt;
 &lt;iframe class=&quot;lazyload&quot; src=&quot;https://player.vimeo.com/video/43763782&quot; width=&quot;640&quot; height=&quot;368&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;figcaption&gt;
-            &lt;p&gt;The Lightning Strike by &lt;a href=&quot;http://fanlore.org/wiki/Obsessive24&quot;&gt;Obsessive24&lt;/a&gt;&lt;br /&gt;
-&lt;a href=&quot;http://obsessive24.livejournal.com/460865.html&quot;&gt;Comment on LJ&lt;/a&gt;, password at LJ&lt;/p&gt;
-          &lt;/figcaption&gt;
+The Lightning Strike by &lt;a href=&quot;http://fanlore.org/wiki/Obsessive24&quot;&gt;Obsessive24&lt;/a&gt;&lt;br /&gt;
+&lt;a href=&quot;http://obsessive24.livejournal.com/460865.html&quot;&gt;Comment on LJ&lt;/a&gt;, password at LJ
+&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/li&gt;
 
@@ -1305,7 +1304,7 @@ Jan. 29, 2017&lt;/p&gt;
     &lt;p&gt;&lt;cite&gt;Source: &lt;a href=&quot;https://fanlore.org/wiki/Media_Fandom_Oral_History_Project_Interview_with_Kandy_Fong_and_Marnie&quot;&gt;Media Fandom Oral History Project Interview with Kandy Fong and Marnie S&lt;/a&gt; (2012)&lt;/cite&gt;&lt;/p&gt;
   &lt;/blockquote&gt;
 
-  &lt;figure class=&quot;video&quot;&gt;&lt;iframe class=&quot;lazyload&quot; src=&quot;http://www.criticalcommons.org/Members/fcoppa/clips/banned-from-argo/embed_view&quot; frameborder=&quot;0&quot; width=&quot;630&quot; height=&quot;460px&quot;&gt;&lt;/iframe&gt;
+  &lt;figure class=&quot;video&quot;&gt;&lt;iframe src=&quot;http://www.criticalcommons.org/Members/fcoppa/clips/banned-from-argo/embed_view&quot; frameborder=&quot;0&quot; width=&quot;630&quot; height=&quot;460&quot;&gt;&lt;/iframe&gt;
 &lt;figcaption&gt;&lt;cite&gt;Another Kandy Fong slideshow set to Leslie Fish’s filk song &quot;Banned From Argo&quot;. Date 1980. Source: Critical Commons.&lt;/cite&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
