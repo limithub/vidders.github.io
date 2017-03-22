@@ -2,17 +2,17 @@
 {% unless page.uniform == true %}
 {% cycle "wide", "tall", "default", "default", "wide tall", "wide", "wide", "tall", "default" %}
 {% endunless %}" title="{{ post.categories | last }}" id="{{post.id | slugify}}">
-	<a href="{{ post.url }}">
+	
  	<div class="text">
 		<h4 class="typeset" 
 		{% if post.fonts %} style="font-family:'{{ post.fonts | first | replace: "+", " "}}',Oswald;" {% endif %}
 		><a href="{{ post.url }}">
 		{% if post.heading %}{{ post.heading }} {% else %} {{ post.title }}{% endif %}</a></h4>
- 		<blockquote>
+ 		<blockquote class="landmark">
  		{% if post.pitch %}{{ post.pitch | markdownify | strip_html}} 
  		{% else %} 
  		{{ post.excerpt}} {% endif %}
  		</blockquote>
  	</div>
-	</a>
+
 </li>
