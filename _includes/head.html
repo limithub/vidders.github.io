@@ -7,6 +7,7 @@
   <meta name="description" content="{% if page.pitch %}{{ page.pitch | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="keywords" 
    content="{% if page.tags %}{{ page.tags | escape | join ', ' | truncate: 160 }}{% else %}{{ site.keywords | join ', ' }}{% endif %}">
+
 <!-- STYLESHEETS FROM HERE TO ETERNITY-->
   <style type="text/css"><!--
   {% include critical.css %}
@@ -44,8 +45,8 @@
   <style type="text/css"><!-- {{ page.code }} --></style>
 
   <!--ALL THESE ARE LOADING SCRIPTS. COULD ALSO ADD UNVEIL HOOKS?-->
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/picturefill/3.0.2/picturefill.min.js" async></script>
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/lazysizes/3.0.0/lazysizes.min.js" async></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/picturefill/3.0.2/picturefill.min.js" async></script>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/lazysizes/3.0.0/lazysizes.min.js" async></script>
 <!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>

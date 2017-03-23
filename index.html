@@ -6,6 +6,7 @@ tools: [typeset]
 code: |
  .slabtext {line-height:.75;}
  .contributors {display:block; background:#4d394b; color:white; padding:1em;font-size:3rem !important; line-height:1.25; border:10px double }
+ .lim {color:rgba(0,0,0,0.2)}
 ---
 
 <p class="splash typeset">
@@ -15,7 +16,7 @@ code: |
 <span class="slabtext"><time>March&nbsp;23&nbsp;2017</time></span> <br />
 <span class="contributors">Featuring: {% for person in site.people %}<a href="/about/people/index.html#{{person.name}}">{{ person.name }}, </a>{% endfor %} &amp; hundreds of sensational vids</span><br />
 <span class="slabtext">&amp;&nbsp;Edited&nbsp;By</span><br />
-<span class="slabtext">lim</span>
+<span class="slabtext lim">lim</span>
 </p>
 
 

@@ -37,6 +37,7 @@ ul.posts, li.cell, article.post aside, section.pitch { display:block;  width:100
 ul.posts {padding-top:3em;}
 li.cell, .tall, .wide {width:100%; height: auto; min-height:50px;}
 li.cell h4 {padding-left:0.25em;}
+.text a:link {z-index:100}
 
 header.site {background:#4d394b;}
 header.site a {color:#fff; }

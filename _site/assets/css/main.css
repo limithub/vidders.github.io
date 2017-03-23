@@ -74,8 +74,9 @@ ul.posts {margin:auto;  padding-top:60px;}
 
 li.cell {display: inline-block; opacity:0.8;float:left; width:150px; padding:2vw; min-height:100px; background-color:rgb(65,45,60);
 position:relative; transition: background .25s ease-in-out;}
-li.wide {width:310px;}
+li.wide {width:200px;}
 li.tall {height:300px}
+
 
 ul.posts li:hover {background-position:top left !important;}
 ul.posts blockquote {margin:auto 0; display:none;}
