@@ -54,7 +54,9 @@ header.site a {color:#fff; }
 .columns {display:block;}
 .mask .copy, .sidequote {width:auto; margin:1.5rem auto; float:none;}
 .mask {background-size:auto; background-attachment: scroll; padding-top:60vw}
+/*to do -write these longform exceptions out instead of lazily importanting*/
 blockquote {width:100% !important; font-size:1rem; margin:auto;}
+blockquote.sidequote {margin:auto auto auto -0.6em;}
 
 
 #articles-vidding-mashup {background-image:none; background-color:#412d3c;} 

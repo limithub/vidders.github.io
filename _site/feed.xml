@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 22 Mar 2017 21:47:37 +0000</pubDate>
-    <lastBuildDate>Wed, 22 Mar 2017 21:47:37 +0000</lastBuildDate>
+    <pubDate>Thu, 23 Mar 2017 10:39:54 +0000</pubDate>
+    <lastBuildDate>Thu, 23 Mar 2017 10:39:54 +0000</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
     
       <item>
@@ -1305,7 +1305,8 @@ Jan. 29, 2017&lt;/p&gt;
   &lt;/blockquote&gt;
 
   &lt;figure&gt;
-&lt;img src=&quot;/assets/pics/posts/history/banned.jpg&quot; data-src=&quot;/assets/pics/posts/history/banned.jpg&quot; class=&quot;lazyload&quot; href=&quot;http://www.criticalcommons.org/Members/fcoppa/clips/banned-from-argo/&quot; /&gt;
+&lt;a href=&quot;http://www.criticalcommons.org/Members/fcoppa/clips/banned-from-argo&quot;&gt;
+&lt;img src=&quot;/assets/pics/posts/history/banned.jpg&quot; data-src=&quot;/assets/pics/posts/history/banned.jpg&quot; class=&quot;lazyload&quot; /&gt;&lt;/a&gt;
 &lt;figcaption&gt;&lt;cite&gt;Another Kandy Fong slideshow set to Leslie Fish’s filk song &quot;Banned From Argo&quot;. Date 1980. Source: &lt;a href=&quot;http://www.criticalcommons.org/Members/fcoppa/clips/banned-from-argo/&quot;&gt;Critical Commons&lt;/a&gt;.&lt;/cite&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -1572,7 +1573,6 @@ To watch a fanvid is to have a simultaneous three-way conversation with your eye
   &lt;p&gt;Some vidders were better at this timing than others. Familiarity with the quirks of the machine was also essential. Each VCR had a “rollback” that was unique. Rollback is when the drum head of the VCR that reads the videotape rewinds the tape slightly to “grab” enough tape to start recording. In doing so, it erases first few seconds of the previous scene.  The rollback could be as few as two seconds or as many as seven seconds of tape. Or there could be no rollback at all.  Having a VCR with consistent rollback was crucial. As Morgan Dawn explained in the mid-1990s: “Vidding on someone else’s VCR was like having sex with someone’s else husband. You know all the right moves, but your timing is way off.” &lt;cite&gt;Source: Morgan Dawn’s personal notes, used with permission.&lt;/cite&gt;&lt;/p&gt;
 
   &lt;figure&gt;
-&lt;img src=&quot;/assets/pics/posts/history/320/vcr-tape.jpg&quot; data-src=&quot;/assets/pics/posts/history/320/vcr-tape.jpg&quot; data-srcset=&quot;/assets/pics/posts/history/480/vcr-tape.jpg 480w, /assets/pics/posts/history/640/vcr-tape.jpg 640w, /assets/pics/posts/history/980/vcr-tape.jpg 980w, /assets/pics/posts/history/1280/vcr-tape.jpg 1280w&quot; data-sizes=&quot;auto&quot; class=&quot;lazyload&quot; /&gt;
 &lt;figcaption&gt;
       &lt;p&gt;A chewed-up videotape, every vidder’s nightmare.&lt;/p&gt;
 
@@ -1580,6 +1580,7 @@ To watch a fanvid is to have a simultaneous three-way conversation with your eye
 
       &lt;p&gt;&lt;cite&gt;Source: &lt;a href=&quot;http://files.eric.ed.gov/fulltext/ED268993.pdf&quot;&gt;1985 Student Video Productions Handbook&lt;/a&gt;&lt;/cite&gt;&lt;/p&gt;
     &lt;/figcaption&gt;
+&lt;img src=&quot;/assets/pics/posts/history/320/vcr-tape.jpg&quot; data-src=&quot;/assets/pics/posts/history/320/vcr-tape.jpg&quot; data-srcset=&quot;/assets/pics/posts/history/480/vcr-tape.jpg 480w, /assets/pics/posts/history/640/vcr-tape.jpg 640w, /assets/pics/posts/history/980/vcr-tape.jpg 980w, /assets/pics/posts/history/1280/vcr-tape.jpg 1280w&quot; data-sizes=&quot;auto&quot; class=&quot;lazyload&quot; /&gt;
 &lt;/figure&gt;
 
   &lt;p&gt;In 1986 one woman wrote:&lt;/p&gt;
@@ -1686,11 +1687,13 @@ To watch a fanvid is to have a simultaneous three-way conversation with your eye
 &lt;figcaption&gt;A code table from &lt;a href=&quot;http://fanlore.org/wiki/APA-VCR&quot;&gt;APA-VCR&lt;/a&gt;, a fanzine where fans could trade videotapes; it ran from 1979 until the 1990s. &lt;/figcaption&gt;
 &lt;/figure&gt;
 
-  &lt;p&gt;The next subject a vidder needed to be knowledge about when buying or trading tapes was videotape quality.  This was because when each copy of a videotape was made, there was s&lt;a href=&quot;http://www.sivideo.com/9vterms.htm&quot;&gt;ignal loss&lt;/a&gt; due to magnetic tape’s inability to transmit data and imperfections in electronic circuitry in reading that data; colors bled, clarity was reduced, and grain increased. This was called generation loss. Knowing whether a copy of a VCR tape was “1st Gen” (copied only once from the master video tape) or “2nd Gen” (copy of a copy) was important, because by the very act of editing a video, and then making copies to share, took up two “generations”. By the time fans reached “5th gen” or “6th gen” copies, the video was often so badly degraded faces were blobs and sound was warbling and tinny.&lt;/p&gt;
+  &lt;p&gt;The next subject a vidder needed to be knowledgeable about when buying or trading tapes was videotape quality.  This was because when each copy of a videotape was made, there was s&lt;a href=&quot;http://www.sivideo.com/9vterms.htm&quot;&gt;ignal loss&lt;/a&gt; due to magnetic tape’s inability to transmit data and imperfections in electronic circuitry in reading that data; colors bled, clarity was reduced, and grain increased. This was called generation loss. Knowing whether a copy of a VCR tape was “1st Gen” (copied only once from the master video tape) or “2nd Gen” (copy of a copy) was important, because by the very act of editing a video, and then making copies to share, took up two “generations”. By the time fans reached “5th gen” or “6th gen” copies, the video was often so badly degraded faces were blobs and sound was warbling and tinny.&lt;/p&gt;
 
-  &lt;figure class=&quot;video&quot;&gt;&lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/mES3CHEnVyI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
-&lt;figcaption&gt;Example of &quot;generation loss&quot; when copying from VHS tapes. Most copies of British TV shows like &quot;The Professionals&quot; were 4th gen or worse.  Fans would spend hours arguing over small details or the color of their favorite characters eyes. Most US fen had to take &quot;The Professionals&quot; fanfic as canon because the video was too degraded. That is assuming they could even find copies of the show to watch. &lt;cite&gt;Source: [The Professionals, A Fandom of Exacting Standards](https://fanlore.org/wiki/The_Professionals#A_Fandom_of_Exacting_Standards.3F) (Fanlore)&lt;/cite&gt;
-&lt;/figcaption&gt;
+  &lt;figure&gt;
+&lt;div class=&quot;video&quot;&gt;&lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/mES3CHEnVyI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;figcaption&gt;
+      &lt;p&gt;Example of “generation loss” when copying from VHS tapes. Most copies of British TV shows like “The Professionals” were 4th gen or worse.  Fans would spend hours arguing over small details or the color of their favorite characters eyes. Most US fen had to take “The Professionals” fanfic as canon because the video was too degraded. That is assuming they could even find copies of the show to watch. &lt;cite&gt;Source: &lt;a href=&quot;https://fanlore.org/wiki/The_Professionals#A_Fandom_of_Exacting_Standards.3F&quot;&gt;The Professionals, A Fandom of Exacting Standards&lt;/a&gt; (Fanlore)&lt;/cite&gt;&lt;/p&gt;
+    &lt;/figcaption&gt;
 &lt;/figure&gt;
 
   &lt;aside class=&quot;right&quot;&gt;
@@ -1839,7 +1842,7 @@ To watch a fanvid is to have a simultaneous three-way conversation with your eye
   &lt;figure&gt;
 &lt;iframe class=&quot;lazyload&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/cEfSTVczlAo&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 &lt;figcaption&gt;
-      &lt;p&gt;Continental Drift is a Blake’s 7 fanvid edited by &lt;a href=&quot;https://fanlore.org/wiki/Tashery_Shannon&quot;&gt;Tashery&lt;/a&gt;, a member of Shadow Songs. The vid is a &lt;a href=&quot;http://fanlore.org/wiki/Character_study&quot;&gt;character study&lt;/a&gt; of &lt;a href=&quot;http://fanlore.org/wiki/Avon&quot;&gt;Avon&lt;/a&gt; and was highly regarded for the timing of its fast edits and cuts, particularly in the last 30 seconds, something that was difficult to achieve in analog VCR vidding. In 2009, the vid was shown at Vividcon’s “Envelope Pushers of the Past” &lt;a href=&quot;http://fanlore.org/wiki/Vid_show&quot;&gt;vid show&lt;/a&gt;. The vid was also discussed that year at Vividcon’s “&lt;a href=&quot;http://vividcon.info/vidshows/112/&quot;&gt;History of Vidding 1985-1990&lt;/a&gt;”: “What made this vid stand out was the music choice, very unique selection for a fanvid for its time.  She treated the vid like a story by using her edits to build to a narrative climax.” Source: Fanlore, &lt;a href=&quot;http://fanlore.org/wiki/Continental_Drift&quot;&gt;Continental Drift&lt;/a&gt;&lt;/p&gt;
+      &lt;p&gt;Continental Drift is a Blake’s 7 fanvid edited by Tashery, a member of Shadow Songs. The vid is a &lt;a href=&quot;http://fanlore.org/wiki/Character_study&quot;&gt;character study&lt;/a&gt; of &lt;a href=&quot;http://fanlore.org/wiki/Avon&quot;&gt;Avon&lt;/a&gt; and was highly regarded for the timing of its fast edits and cuts, particularly in the last 30 seconds, something that was difficult to achieve in analog VCR vidding. In 2009, the vid was shown at Vividcon’s “Envelope Pushers of the Past” &lt;a href=&quot;http://fanlore.org/wiki/Vid_show&quot;&gt;vid show&lt;/a&gt;. The vid was also discussed that year at Vividcon’s “&lt;a href=&quot;http://vividcon.info/vidshows/112/&quot;&gt;History of Vidding 1985-1990&lt;/a&gt;”: “What made this vid stand out was the music choice, very unique selection for a fanvid for its time.  She treated the vid like a story by using her edits to build to a narrative climax.” Source: Fanlore, &lt;a href=&quot;http://fanlore.org/wiki/Continental_Drift&quot;&gt;Continental Drift&lt;/a&gt;&lt;/p&gt;
     &lt;/figcaption&gt;
 &lt;/figure&gt;
 
@@ -2005,7 +2008,7 @@ To watch a fanvid is to have a simultaneous three-way conversation with your eye
 
   &lt;p&gt;In the 1990s, as vids obtained better sources and more vidders were able to afford VCRs, a few fans decided to take matters in their own hands.  They started hosting panels designed to discuss the content of the vids, stepping away from the purely instructional panels based on the mechanics of how to make a vid with two VCRs.&lt;/p&gt;
 
-  &lt;p&gt;In 1997, Sandy Herrold and Tashery Shannon held a Sunday morning “Songvid Critique” &lt;a href=&quot;https://fanlore.org/wiki/Panel&quot;&gt;panels&lt;/a&gt; at Escapade, a vidding con. This panel had the description: “An exploration of different elements of media vids, with an emphasis on aesthetics. We’ll look at segments of different songs to see how the images were used in conjunction with the varied rhythms of the music, and to enhance the mood.”&lt;/p&gt;
+  &lt;p&gt;In 1997, Sandy Herrold and Tashery S held a Sunday morning “Songvid Critique” &lt;a href=&quot;https://fanlore.org/wiki/Panel&quot;&gt;panels&lt;/a&gt; at Escapade, a vidding con. This panel had the description: “An exploration of different elements of media vids, with an emphasis on aesthetics. We’ll look at segments of different songs to see how the images were used in conjunction with the varied rhythms of the music, and to enhance the mood.”&lt;/p&gt;
 
   &lt;p&gt;The next year, the Sunday morning panel was billed as a “Music Video Show Review,” using the word “review” for the first time; the panel was held in two parts and was led by Gayle F and Sandy.  In 1999, the panel was billed as “Sunday Morning Vid Review” and was led by Jessica aka &lt;a href=&quot;https://fanlore.org/wiki/Tzikeh&quot;&gt;tzikeh&lt;/a&gt; and Sandy. In 2000, it was framed as “Songvid Appreciation 101” which explicitly claimed to be using the vids from the previous night’s show to illustrate these ideas in a vid. In 2001, Sandy and Rache together hosted: “Songvid Appreciation Escapade style”.&lt;/p&gt;
 
@@ -2043,13 +2046,13 @@ To watch a fanvid is to have a simultaneous three-way conversation with your eye
 &lt;li&gt;
 &lt;figure&gt;
 &lt;a class=&quot;originals&quot; href=&quot;/assets/pics/posts/history/escapade-review/originals-3.jpg&quot;&gt;&lt;img src=&quot;/assets/pics/posts/history/escapade-review/three.jpg&quot; data-src=&quot;/assets/pics/posts/history/escapade-review/320/three.jpg&quot; data-srcset=&quot;/assets/pics/posts/history/escapade-review/480/three.jpg 480w, /assets/pics/posts/history/escapade-review/640/three.jpg 640w, /assets/pics/posts/history/escapade-review/980/three.jpg 980w, /assets/pics/posts/history/escapade-review/1280/three.jpg 1280w, /assets/pics/posts/history/escapade-review/1600/three.jpg 1600w&quot; data-sizes=&quot;auto&quot; class=&quot;lazyload&quot; /&gt;&lt;/a&gt;
-&lt;figcaption&gt;Comments ranged from the thoughtful: &lt;q&gt;Unexpected. I thought they might ruin my fav movie but it was fascinating. The movie in a microcosm of a song&lt;/q&gt;fire to simple &lt;q&gt;Too long&lt;/q&gt; to sarcastic: &lt;q&gt;Now I can be hideously depressed w/out seeing the movie.&lt;/q&gt; The &lt;i&gt;due South &lt;/i&gt;vid fared better: &lt;q&gt;One of the best in show. POV shifs are unusual but work well.&lt;/q&gt; Of course not everyone agreed: &lt;q&gt;Decent. Song drove me nuts in this context, tho I prob would like it otherwise. Or maybe vid too long.&lt;/q&gt; The song was Sarah McLaughlin so the viewer may be forgiven!&lt;/figcaption&gt;
+&lt;figcaption&gt;Comments ranged from the thoughtful: &lt;q&gt;Unexpected. I thought they might ruin my fav movie but it was fascinating. The movie in a microcosm of a song&lt;/q&gt; to simple &lt;q&gt;Too long&lt;/q&gt; to sarcastic: &lt;q&gt;Now I can be hideously depressed w/out seeing the movie.&lt;/q&gt; The &lt;i&gt;due South &lt;/i&gt;vid fared better: &lt;q&gt;One of the best in show. POV shifts are unusual but work well.&lt;/q&gt; Of course not everyone agreed: &lt;q&gt;Decent. Song drove me nuts in this context, tho I prob would like it otherwise. Or maybe vid too long.&lt;/q&gt; The song was Sarah McLaughlin so the viewer may be forgiven!&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/li&gt;
 
 &lt;li&gt;
 &lt;figure&gt;
-&lt;a class=&quot;originals&quot; href=&quot;/assets/pics/posts/history/escapade-review/originals-4.jpg&quot;&gt;&lt;img src=&quot;/assets/pics/posts/history/escapade-review/four.jpg&quot; data-src=&quot;/assets/pics/posts/history/escapade-review/four.jpg&quot; data-srcset=&quot;/assets/pics/posts/history/escapade-review/480/four.jpg 480w, /assets/pics/posts/history/escapade-review/640/four.jpg 640w, /assets/pics/posts/history/980/four.jpg 980w, /assets/pics/posts/history/1280/four.jpg 1280w, /assets/pics/posts/history/escapade-review/1600/four.jpg 1600w&quot; data-sizes=&quot;auto&quot; class=&quot;lazyload&quot; /&gt;&lt;/a&gt;
+&lt;a class=&quot;originals&quot; href=&quot;/assets/pics/posts/history/escapade-review/originals-4.jpg&quot;&gt;&lt;img src=&quot;/assets/pics/posts/history/escapade-review/four.jpg&quot; data-src=&quot;/assets/pics/posts/history/escapade-review/four.jpg&quot; data-srcset=&quot;/assets/pics/posts/history/escapade-review/480/four.jpg 480w, /assets/pics/posts/history/escapade-review/640/four.jpg 640w, /assets/pics/posts/history/escapade-review/980/four.jpg 980w, /assets/pics/posts/history/escapade-review/1280/four.jpg 1280w, /assets/pics/posts/history/escapade-review/1600/four.jpg 1600w&quot; data-sizes=&quot;auto&quot; class=&quot;lazyload&quot; /&gt;&lt;/a&gt;
 &lt;figcaption&gt;Many vids were made to recruit fans to watch a movie or show. For &lt;i&gt;The English Patient&lt;/i&gt; movie one fan wrote: &lt;q&gt;Very interesting. Have not seen the movie but I will see it now.&lt;/q&gt; For the&lt;i&gt; due South&lt;/i&gt; vid: &lt;q&gt;Liked the video - makes me want to get the episodes.&lt;/q&gt; &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/li&gt;
@@ -2057,7 +2060,7 @@ To watch a fanvid is to have a simultaneous three-way conversation with your eye
 &lt;li&gt;
 &lt;figure&gt;
 &lt;a class=&quot;originals&quot; href=&quot;/assets/pics/posts/history/escapade-review/originals-5.jpg&quot;&gt;&lt;img src=&quot;/assets/pics/posts/history/escapade-review/five.jpg&quot; data-src=&quot;/assets/pics/posts/history/escapade-review/320/five.jpg&quot; data-srcset=&quot;/assets/pics/posts/history/escapade-review/480/five.jpg 480w, /assets/pics/posts/history/640/five.jpg 640w, /assets/pics/posts/history/escapade-review/980/five.jpg 980w, /assets/pics/posts/history/escapade-review/1280/five.jpg 1280w, /assets/pics/posts/history/escapade-review/1600/five.jpg 1600w&quot; data-sizes=&quot;auto&quot; class=&quot;lazyload&quot; /&gt;&lt;/a&gt;
-&lt;figcaption&gt;Other comments made less sense, possibly due to rushed nature of scribbling feedback in the dark. &lt;i&gt;The English Patient&lt;/i&gt; vid used an instrumental piece of music which prompted one fan to write: &lt;q&gt;I prefer words that tell a story.&lt;/q&gt; Below it another fan had a different opinion: &lt;q&gt;Great music which matched the mood perfectly.&lt;/q&gt; But for most fans who had an intense connection to their favorite TV shows, like&lt;i&gt; due South, &lt;/i&gt;a vid could recreate that emotional journey: &lt;q&gt;I cried. This was devastating. I loved the show. I've been in mourning&amp;amp; for weeks [after the show stopped airing]. What an eulogy.&quot;&lt;/q&gt; &lt;/figcaption&gt;
+&lt;figcaption&gt;Other comments made less sense, possibly due to the rushed nature of scribbling feedback in the dark. &lt;i&gt;The English Patient&lt;/i&gt; vid used an instrumental piece of music which prompted one fan to write: &lt;q&gt;I prefer words that tell a story.&lt;/q&gt; Below it another fan had a different opinion: &lt;q&gt;Great music which matched the mood perfectly.&lt;/q&gt; But for most fans who had an intense connection to their favorite TV shows, like&lt;i&gt; due South, &lt;/i&gt;a vid could recreate that emotional journey: &lt;q&gt;I cried. This was devastating. I loved the show. I've been in mourning for weeks [after the show stopped airing]. What an eulogy.&quot;&lt;/q&gt; &lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
@@ -2124,7 +2127,9 @@ To watch a fanvid is to have a simultaneous three-way conversation with your eye
 		&lt;ul class=&quot;slides&quot;&gt;
 			&lt;li&gt;&lt;figure&gt;
 				&lt;img src=&quot;/assets/pics/posts/history/pressure/1.png&quot; class=&quot;lazyload&quot; /&gt;&lt;figcaption&gt;
-			Travel back in time to watch two members of California Crew edit a Quantum Leap fanvid over one weekend using stopwatches, VCRs, audio cassette tapes, towers of videotapes and rivers of Diet Pepsi.&lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;
+			&lt;p&gt;Travel back in time to watch two members of California Crew edit a Quantum Leap fanvid over one weekend using stopwatches, VCRs, audio cassette tapes, towers of videotapes and rivers of Diet Pepsi.&lt;/p&gt;
+			&lt;p&gt;&lt;/p&gt;
+			&lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;
 			&lt;li&gt;&lt;figure&gt;
 				&lt;img src=&quot;/assets/pics/posts/history/pressure/2.png&quot; class=&quot;lazyload&quot; /&gt;&lt;figcaption&gt;
 			VCR-VCR-TV cable spaghetti.&lt;/figcaption&gt;&lt;/figure&gt;&lt;/li&gt;

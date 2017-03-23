@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "extended remarks"
+title:  "Extended Remarks"
 pitch: |
  Extended remarks from the recreate coalition interview
 authors: [lim, gwyneth]

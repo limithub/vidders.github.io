@@ -39,6 +39,7 @@ ul.posts, li.cell, article.post aside, section.pitch { display:block;  width:100
 ul.posts {padding-top:3em;}
 li.cell, .tall, .wide {width:100%; height: auto; min-height:50px;}
 li.cell h4 {padding-left:0.25em;}
+.text a:link {z-index:100}
 
 header.site {background:#4d394b;}
 header.site a {color:#fff; }
@@ -56,7 +57,9 @@ header.site a {color:#fff; }
 .columns {display:block;}
 .mask .copy, .sidequote {width:auto; margin:1.5rem auto; float:none;}
 .mask {background-size:auto; background-attachment: scroll; padding-top:60vw}
+/*to do -write these longform exceptions out instead of lazily importanting*/
 blockquote {width:100% !important; font-size:1rem; margin:auto;}
+blockquote.sidequote {margin:auto auto auto -0.6em;}
 
 {% for post in site.posts %}
 #{{post.id | slugify}} {background-image:none; background-color:{% cycle '#412d3c', '#98cbb4', '#FFCC1','#187b9b', '#974a86', '#4a6097', '#d27396' %};} 
