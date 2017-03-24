@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
     <loc>http://localhost:4000/</loc>
-    <lastmod>2017-03-23T22:29:23+00:00</lastmod>
+    <lastmod>2017-03-24T09:50:26+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -41,7 +41,7 @@
     
     <url>
         <loc>http://localhost:4000/404.html</loc>
-        <lastmod>2017-03-23</lastmod>
+        <lastmod>2017-03-24</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
@@ -53,7 +53,7 @@
     
     <url>
         <loc>http://localhost:4000/articles/</loc>
-        <lastmod>2017-03-23</lastmod>
+        <lastmod>2017-03-24</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
@@ -67,7 +67,7 @@
     
     <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2017-03-23</lastmod>
+        <lastmod>2017-03-24</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
@@ -91,7 +91,7 @@
     
     <url>
         <loc>http://localhost:4000/articles/vidding/</loc>
-        <lastmod>2017-03-23</lastmod>
+        <lastmod>2017-03-24</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
@@ -103,7 +103,7 @@
     
     <url>
         <loc>http://localhost:4000/articles/vids/</loc>
-        <lastmod>2017-03-23</lastmod>
+        <lastmod>2017-03-24</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
