@@ -10,10 +10,13 @@ var $grid = $('.grid').packery({
 });
 
 // make all grid-items draggable
-$grid.find('.cell').each( function( i, gridItem ) {
-  var draggie = new Draggabilly( gridItem );
-  // bind drag events to Packery
-  $grid.packery( 'bindDraggabillyEvents', draggie );
-});
+// only if window is > 480 pixels wide
+if ($(window).width() > 480) {
+    $grid.find('.cell').each( function( i, gridItem ) {
+      var draggie = new Draggabilly( gridItem );
+      // bind drag events to Packery
+      $grid.packery( 'bindDraggabillyEvents', draggie );
+    });
+}
 
 </script>
