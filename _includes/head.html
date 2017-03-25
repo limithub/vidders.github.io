@@ -3,7 +3,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
-  <meta name="robots" content="noindex,nofollow"/>
   <meta name="description" content="{% if page.pitch %}{{ page.pitch | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
   <meta name="keywords" 
    content="{% if page.tags %}{{ page.tags | escape | join ', ' | truncate: 160 }}{% else %}{{ site.keywords | join ', ' }}{% endif %}">
