@@ -15,7 +15,7 @@ code: |
 categories: [articles, vidding]
 ---
 <section class="copy" markdown="1">
-So four or five months ago I was asked to send some remarks to the Re:Create Coalition to help out their project. They caught me on one of my rare verbose days so I sent them a screed and told 'em to use anything that was helpful. The creator story is up on their site now. Anyway, here are the extended remarks from that conversation, with some of their questions as cues. This convo pretty much nudged me into doing this zine, so some of the ground covered here is explored further in other articles. 
+So four or five months ago I was asked to send some remarks to the Re:Create Coalition to help out their project. They caught me on one of my rare verbose days so I sent them a screed and told 'em to use anything that was helpful. The [creator story](http://www.recreatecoalition.org/story/lim-gywn-fan-vidders/) is up on their site now. Anyway, here are the extended remarks from that conversation, with some of their questions as cues. This convo pretty much nudged me into doing this zine, so some of the ground covered here is explored further in other articles. 
 
 After the article came out (last week, I guess) I contacted the other vidder featured in it and asked her if she had said anything more she'd like to share (because I am nosy and like to get the goods!), and she very generously wrote up her remarks for us all as well. Whoo! Thanks, Gwyn! [go straight to Gwyn's remarks](#gwyn)
 
