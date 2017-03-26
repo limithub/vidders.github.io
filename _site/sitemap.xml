@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
     <loc>http://localhost:4000/</loc>
-    <lastmod>2017-03-25T16:54:43+00:00</lastmod>
+    <lastmod>2017-03-26T13:09:48+01:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
@@ -12,7 +12,7 @@
     
     <url>
         <loc>http://localhost:4000/about/people/</loc>
-        <lastmod>2016-04-06 00:00:00 +0000</lastmod>
+        <lastmod>2016-04-06 00:00:00 +0100</lastmod>
         <changefreq>monthly</changefreq>
     </url>
     
@@ -20,7 +20,7 @@
     
     <url>
         <loc>http://localhost:4000/about/contact/</loc>
-        <lastmod>2016-04-06 00:00:00 +0000</lastmod>
+        <lastmod>2016-04-06 00:00:00 +0100</lastmod>
         <changefreq>monthly</changefreq>
     </url>
     
@@ -28,7 +28,7 @@
     
     <url>
         <loc>http://localhost:4000/about/</loc>
-        <lastmod>2016-04-06 00:00:00 +0000</lastmod>
+        <lastmod>2016-04-06 00:00:00 +0100</lastmod>
         <changefreq>monthly</changefreq>
     </url>
     
@@ -41,7 +41,7 @@
     
     <url>
         <loc>http://localhost:4000/404.html</loc>
-        <lastmod>2017-03-25</lastmod>
+        <lastmod>2017-03-26</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
@@ -53,7 +53,7 @@
     
     <url>
         <loc>http://localhost:4000/articles/</loc>
-        <lastmod>2017-03-25</lastmod>
+        <lastmod>2017-03-26</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
@@ -67,7 +67,7 @@
     
     <url>
         <loc>http://localhost:4000/</loc>
-        <lastmod>2017-03-25</lastmod>
+        <lastmod>2017-03-26</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
@@ -91,7 +91,7 @@
     
     <url>
         <loc>http://localhost:4000/articles/vidding/</loc>
-        <lastmod>2017-03-25</lastmod>
+        <lastmod>2017-03-26</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     
@@ -103,7 +103,7 @@
     
     <url>
         <loc>http://localhost:4000/articles/vids/</loc>
-        <lastmod>2017-03-25</lastmod>
+        <lastmod>2017-03-26</lastmod>
         <changefreq>weekly</changefreq>
     </url>
     

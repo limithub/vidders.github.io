@@ -57,7 +57,6 @@ And you know, culture can’t be owned. You can control expression, you can shut
 
 I can say what I like about the Queen, but I had better shut my mouth about Mickey Mouse or I will be TOSd, C&D'd, DMCAd, served, sued, chased offline. That’s interesting to me. I’m compelled to go there. Aren’t you? I can’t leave it alone. Ten years and I’m still stuck on that.
 
-
 ### TOS
 
 ### Have you been faced with any copyright challenges since you first launched? 

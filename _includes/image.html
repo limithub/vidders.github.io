@@ -1,0 +1,12 @@
+{% capture path %}/assets/pics/posts/{{ page.url | split:'/' | last | remove: ".html" }}{% endcapture %}
+
+<img class="lazyload" 
+   src="{{ path }}/{{ include.file }}"
+   data-src="{{ path }}/{{ include.file }}"
+   data-srcset="
+   {{ path }}/480/{{include.file }} 480w, 
+   {{ path }}/640/{{ include.file }} 640w, 
+   {{ path }}/980/{{ include.file }} 980w,
+   {{ path }}/1280/{{ include.file }} 1280w,
+   {{ path }}/1600/{{ include.file }} 1600w" data-sizes="auto" 
+   alt="" />
